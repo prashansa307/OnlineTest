@@ -107,7 +107,7 @@
     "id": 15,
     "question": "One who cannot be defeated is called:",
     "options": ["Invisible", "Invincible", "Incredible", "Irrelevant"],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 16,
@@ -176,7 +176,7 @@
     "id": 24,
     "question": "[Reasoning] श्रृंखला पूरी कीजिए: B, E, J, Q, Z, ?",
     "options": ["J", "K", "L", "M"],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "id": 25,
@@ -188,7 +188,7 @@
     "id": 26,
     "question": "[GK] ISRO का मुख्यालय कहाँ स्थित है?",
     "options": ["हैदराबाद", "बेंगलुरु", "नई दिल्ली", "चेन्नई"],
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "id": 27,
@@ -212,7 +212,7 @@
     "id": 30,
     "question": "[Reasoning] यदि DELHI → EFMIJ, तो MUMBAI → ?",
     "options": ["NVNCBJ", "NVNCAJ", "NUNCBJ", "OVNCBJ"],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 31,
@@ -284,7 +284,7 @@
     "id": 42,
     "question": "[Reasoning] यदि + का अर्थ ×, − का अर्थ +, × का अर्थ ÷ और ÷ का अर्थ − है, तो: 12 + 4 × 2 − 5 = ?",
     "options": ["27", "29", "31", "35"],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "id": 43,
