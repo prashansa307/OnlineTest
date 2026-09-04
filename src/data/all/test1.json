@@ -13,13 +13,13 @@
   },
   {
     "id": 3,
-    "question": "निम्न वाक्य में त्रुटि पहचानिए: “Each of the candidates have submitted their application before the deadline.”",
+    "question": "Identify the error in the following sentence: “Each of the candidates have submitted their application before the deadline.”",
     "options": ["Each of the candidates", "have submitted", "their application", "before the deadline"],
     "correctAnswer": 1
   },
   {
     "id": 4,
-    "question": "He said to me, “I have completed my work.” इसका सही Indirect Speech क्या होगा?",
+    "question": "He said to me, “I have completed my work.” What is the correct indirect speech?",
     "options": [
       "He told me that he had completed his work.",
       "He told me that he has completed his work.",
@@ -30,7 +30,7 @@
   },
   {
     "id": 5,
-    "question": "सही Passive Voice चुनिए: “They had completed the operation before sunset.”",
+    "question": "Choose the correct passive voice: “They had completed the operation before sunset.”",
     "options": [
       "The operation had completed before sunset.",
       "The operation was completed before sunset.",
@@ -65,7 +65,7 @@
   },
   {
     "id": 10,
-    "question": "सही spelling चुनिए:",
+    "question": "Choose the correct spelling:",
     "options": ["Priviledge", "Privilege", "Privelege", "Privillage"],
     "correctAnswer": 1
   },
@@ -77,7 +77,7 @@
   },
   {
     "id": 12,
-    "question": "“A blessing in disguise” का सही अर्थ है:",
+    "question": "What is the correct meaning of “A blessing in disguise”?",
     "options": [
       "ऐसी चीज जो देखने में बुरी हो लेकिन लाभदायक निकले",
       "छिपा हुआ दुश्मन",
@@ -94,7 +94,7 @@
   },
   {
     "id": 14,
-    "question": "सही वाक्य चुनिए:",
+    "question": "Choose the correct sentence:",
     "options": [
       "No sooner he arrived than the meeting started.",
       "No sooner had he arrived when the meeting started.",
@@ -118,21 +118,21 @@
   },
   {
     "id": 17,
-    "question": "Passage में किस technology का उल्लेख किया गया है?",
+    "question": "Which technology is mentioned in the passage?",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": ["Steam engines", "Unmanned systems", "Printing machines", "Nuclear reactors"],
     "correctAnswer": 1
   },
   {
     "id": 18,
-    "question": "Technology completely replace नहीं कर सकती:",
+    "question": "Technology cannot completely replace:",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": ["Weapons", "Communication", "Human judgement", "Training"],
     "correctAnswer": 2
   },
   {
     "id": 19,
-    "question": "एक trained soldier को क्या करने में सक्षम होना चाहिए?",
+    "question": "What should a trained soldier be capable of?",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": [
       "कठिन परिस्थितियों से बचना",
@@ -144,7 +144,7 @@
   },
   {
     "id": 20,
-    "question": "Passage का मुख्य विचार क्या है?",
+    "question": "What is the main idea of the passage?",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": [
       "Technology ने soldiers को unnecessary बना दिया है।",
