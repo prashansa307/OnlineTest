@@ -1,6 +1,337 @@
 [
-  { "id": 1, "question": "What is the synonym of 'assist'?", "options": ["Help", "Hide", "Hold", "Hurt"], "correctAnswer": 0 },
-  { "id": 2, "question": "What is 14 + 6?", "options": ["18", "19", "20", "22"], "correctAnswer": 2 },
-  { "id": 3, "question": "Which direction is opposite to north?", "options": ["East", "West", "South", "North-East"], "correctAnswer": 2 },
-  { "id": 4, "question": "What is the capital of India?", "options": ["Delhi", "Mumbai", "Hyderabad", "Pune"], "correctAnswer": 0 }
+  {
+    "id": 1,
+    "question": "Neither the commander nor his officers were willing to compromise on the issue.",
+    "options": ["was", "were", "has", "is"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "He is an honest officer and a university graduate.",
+    "options": ["a, an", "an, a", "an, an", "a, a"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error: \"Each of the candidates have submitted their application before the deadline.\"",
+    "options": ["Each of the candidates", "have submitted", "their application", "before the deadline"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "He said to me, \"I have completed my work.\" What is the correct indirect speech?",
+    "options": [
+      "He told me that he had completed his work.",
+      "He told me that he has completed his work.",
+      "He said me that he had completed my work.",
+      "He told that he completed his work."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive voice: \"They had completed the operation before sunset.\"",
+    "options": [
+      "The operation had completed before sunset.",
+      "The operation was completed before sunset.",
+      "The operation had been completed before sunset.",
+      "The operation has been completed before sunset."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "If I were in your position, I would accept the offer.",
+    "options": ["am", "was", "were", "have been"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "The new policy came into effect from April.",
+    "options": ["on", "in", "into", "at"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Synonym of \"Abundant\" is:",
+    "options": ["Scarce", "Plentiful", "Limited", "Insufficient"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Antonym of \"Hostile\" is:",
+    "options": ["Aggressive", "Violent", "Friendly", "Harsh"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct spelling:",
+    "options": ["Priviledge", "Privilege", "Privelege", "Privillage"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "The train had left before we reached the station.",
+    "options": ["leaves", "has left", "had left", "was left"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "\"A blessing in disguise\" means:",
+    "options": [
+      "Something that seems bad at first but turns out beneficial",
+      "A hidden enemy",
+      "A false promise",
+      "A sudden meeting"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "The commander prevented the soldiers from entering the restricted area.",
+    "options": ["to", "from", "for", "by"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "No sooner he arrived than the meeting started.",
+      "No sooner had he arrived when the meeting started.",
+      "No sooner had he arrived than the meeting started.",
+      "No sooner did he arrived than the meeting started."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "One who cannot be defeated is called:",
+    "options": ["Invisible", "Invincible", "Incredible", "Irrelevant"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "Modern warfare depends on:",
+    "options": ["Physical strength alone", "Technology alone", "Technology, intelligence and decision-making", "Weapons alone"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Which technology is mentioned in the passage?",
+    "options": ["Steam engines", "Unmanned systems", "Printing machines", "Nuclear reactors"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Technology cannot completely replace:",
+    "options": ["Weapons", "Communication", "Human judgement", "Training"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "A trained soldier should be capable of:",
+    "options": [
+      "Avoiding difficult situations",
+      "Taking appropriate decisions under pressure",
+      "Depending only on machines",
+      "Ignoring changing situations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "The main idea of the passage is:",
+    "options": [
+      "Technology has made soldiers unnecessary",
+      "Only physical strength is necessary in warfare",
+      "Modern warfare needs technology along with human judgement and discipline",
+      "AI has completely replaced military personnel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Find the next number in the series: 5, 11, 23, 47, 95, ?",
+    "options": ["189", "190", "191", "193"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "If 35% of a number is 84, what is the number?",
+    "options": ["220", "240", "260", "280"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "When did the Constituent Assembly adopt the Indian Constitution?",
+    "options": ["15 August 1947", "26 January 1950", "26 November 1949", "2 October 1949"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "Complete the series: B, E, J, Q, Z, ?",
+    "options": ["J", "K", "L", "M"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "A product has a marked price of ₹2,500. What is the selling price after 20% discount?",
+    "options": ["₹1,800", "₹2,000", "₹2,100", "₹2,200"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "Where is the ISRO headquarters located?",
+    "options": ["Hyderabad", "Bengaluru", "New Delhi", "Chennai"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "A person moves 8 km north, then 6 km east, then 8 km south, and finally 10 km west. How far is he from the starting point?",
+    "options": ["2 km", "4 km", "6 km", "10 km"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "The ratio of ages of A and B is 3:5. After 8 years it becomes 5:7. What is A's present age?",
+    "options": ["10 years", "12 years", "15 years", "18 years"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "Which is India's first indigenous nuclear submarine?",
+    "options": ["INS Vikrant", "INS Arihant", "INS Kolkata", "INS Chennai"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "If DELHI becomes EFMIJ, then MUMBAI becomes ?",
+    "options": ["NVNCBJ", "NVNCAJ", "NUNCBJ", "OVNCBJ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "What is the simple interest on ₹8,000 for 2 years at 10% per annum?",
+    "options": ["₹1,400", "₹1,600", "₹1,800", "₹2,000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "Fundamental Duties are in which Article?",
+    "options": ["Article 32", "Article 51A", "Article 21A", "Article 44"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "Rahul is 17th from the top and 24th from the bottom in a class. How many students are there in total?",
+    "options": ["39", "40", "41", "42"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "A train is moving at 72 km/h. How far will it travel in 25 seconds?",
+    "options": ["400 m", "450 m", "500 m", "550 m"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "Green Revolution in India is mainly related to increase in production of which crop?",
+    "options": ["Cotton", "Wheat", "Tea", "Jute"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Today is Wednesday. What day will it be after 100 days?",
+    "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "A number becomes 360 when increased by 20%. What was the original number?",
+    "options": ["280", "300", "320", "340"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "What is the SI unit of electrical resistance?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "At 5:20, what is the smaller angle between the hands of a clock?",
+    "options": ["40°", "50°", "60°", "70°"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "Evaluate: √144 + √81 − √49",
+    "options": ["12", "14", "16", "18"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "Where is the United Nations headquarters?",
+    "options": ["Geneva", "Paris", "New York", "London"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "If + means ×, − means +, × means ÷ and ÷ means −, then evaluate: 12 + 4 × 2 − 5",
+    "options": ["27", "29", "31", "35"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "A shopkeeper buys an article for ₹800 and sells it at 15% profit. What is the selling price?",
+    "options": ["₹900", "₹920", "₹940", "₹960"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Which state has the longest coastline in India?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Andhra Pradesh"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Five people A, B, C, D and E have different heights. A is taller than B but shorter than C. D is shorter than B but taller than E. Who is the tallest?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "A alone can do a job in 12 days and B alone in 18 days. In how many days will they complete it together?",
+    "options": ["6 days", "7 1/5 days", "8 days", "9 days"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "Agni-4 is a type of which missile?",
+    "options": [
+      "Short-range cruise missile",
+      "Medium-range ballistic missile",
+      "Surface-to-air missile",
+      "Anti-tank guided missile"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "A cube is painted on all sides and cut into 64 smaller equal cubes. How many small cubes have paint on exactly two faces?",
+    "options": ["12", "16", "24", "32"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "If three-fifths of a number plus 24 equals 84, what is the number?",
+    "options": ["90", "100", "110", "120"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "Exercise Pitch Black 2026, in which the Indian Air Force participated, was held in which country?",
+    "options": ["Malaysia", "Australia", "Singapore", "France"],
+    "correctAnswer": 1
+  }
 ]
