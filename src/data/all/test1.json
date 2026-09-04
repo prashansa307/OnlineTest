@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "question": "Neither the commander nor his officers ______ willing to compromise on the issue.",
@@ -79,10 +79,10 @@
     "id": 12,
     "question": "What is the correct meaning of “A blessing in disguise”?",
     "options": [
-      "ऐसी चीज जो देखने में बुरी हो लेकिन लाभदायक निकले",
-      "छिपा हुआ दुश्मन",
-      "झूठा वादा",
-      "अचानक मिलने वाली सजा"
+      "Something that seems bad at first but turns out beneficial",
+      "A hidden enemy",
+      "A false promise",
+      "A sudden punishment"
     ],
     "correctAnswer": 0
   },
@@ -135,10 +135,10 @@
     "question": "What should a trained soldier be capable of?",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": [
-      "कठिन परिस्थितियों से बचना",
-      "दबाव में उचित निर्णय लेना",
-      "केवल machines पर निर्भर रहना",
-      "बदलती परिस्थितियों को ignore करना"
+      "Avoid difficult situations",
+      "Take appropriate decisions under pressure",
+      "Rely only on machines",
+      "Ignore changing situations"
     ],
     "correctAnswer": 1
   },
@@ -147,10 +147,10 @@
     "question": "What is the main idea of the passage?",
     "passage": "Modern warfare depends not only on physical strength but also on technology, intelligence and rapid decision-making. Armed forces across the world are increasingly using unmanned systems, advanced communication networks and artificial intelligence to improve operational effectiveness. However, technology cannot completely replace human judgement. A trained and disciplined soldier must be capable of understanding changing situations and taking appropriate decisions under pressure.",
     "options": [
-      "Technology ने soldiers को unnecessary बना दिया है।",
-      "Warfare में केवल physical strength आवश्यक है।",
-      "Modern warfare में technology के साथ human judgement और discipline भी आवश्यक हैं।",
-      "AI ने military personnel को replace कर दिया है।"
+      "Technology has made soldiers unnecessary.",
+      "Only physical strength is necessary in warfare.",
+      "Modern warfare needs technology along with human judgement and discipline.",
+      "AI has completely replaced military personnel."
     ],
     "correctAnswer": 2
   },
@@ -340,3 +340,4 @@
     "correctAnswer": 1
   }
 ]
+
