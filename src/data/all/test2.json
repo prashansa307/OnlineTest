@@ -1,6 +1,322 @@
 [
-  { "id": 1, "question": "Choose the correct spelling.", "options": ["Definitely", "Definately", "Difinitely", "Definatly"], "correctAnswer": 0 },
-  { "id": 2, "question": "What is 15% of 100?", "options": ["10", "15", "20", "25"], "correctAnswer": 1 },
-  { "id": 3, "question": "Odd one out: Circle, Square, Triangle, Sphere", "options": ["Circle", "Square", "Triangle", "Sphere"], "correctAnswer": 3 },
-  { "id": 4, "question": "Which planet is closest to the Sun?", "options": ["Mercury", "Venus", "Earth", "Mars"], "correctAnswer": 0 }
+  {
+    "id": 1,
+    "question": "The number of candidates appearing for the examination ______ increased considerably this year.",
+    "options": ["have", "has", "are", "were"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Hardly ______ the announcement been made when the crowd started moving towards the gate.",
+    "options": ["has", "had", "was", "did"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error: “Neither of the two proposals are acceptable to the committee.”",
+    "options": ["Neither", "of the two proposals", "are acceptable", "to the committee"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct indirect speech: The instructor said to the cadets, “You must submit the forms before noon.”",
+    "options": [
+      "The instructor told the cadets that they had to submit the forms before noon.",
+      "The instructor told the cadets that they must submitted the forms before noon.",
+      "The instructor said the cadets to submit the forms before noon.",
+      "The instructor told that the cadets must submit the forms before noon."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive voice: “People believe that the officer is highly experienced.”",
+    "options": [
+      "The officer is believed to be highly experienced.",
+      "The officer was believed highly experienced.",
+      "The officer has believed to be highly experienced.",
+      "The officer is believing to be highly experienced."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "By the time the rescue team arrived, the villagers ______ to a safer location.",
+    "options": ["moved", "have moved", "had moved", "were moving"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "He succeeded ______ overcoming all the difficulties.",
+    "options": ["at", "in", "on", "with"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the word nearest in meaning to “Prudent”.",
+    "options": ["Reckless", "Wise", "Arrogant", "Careless"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Explicit”.",
+    "options": ["Definite", "Clear", "Ambiguous", "Precise"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": ["Conscientious", "Consciencious", "Conscientous", "Conscencious"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "“Unless you work hard, you will not succeed.” Choose the correct equivalent sentence.",
+    "options": [
+      "If you work hard, you will not succeed.",
+      "If you do not work hard, you will not succeed.",
+      "If you worked hard, you would not succeed.",
+      "If you had worked hard, you would not succeed."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "“To beat around the bush” means:",
+    "options": ["To speak directly", "To avoid the main point", "To work very hard", "To create confusion deliberately"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct sentence.",
+    "options": ["He is senior than me.", "He is senior to me.", "He is more senior than me.", "He is senior from me."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct option: No sooner ______ the aircraft landed than the weather deteriorated.",
+    "options": ["did", "had", "has", "was"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One who deliberately sets fire to property is called:",
+    "options": ["Arsonist", "Extortionist", "Vandal", "Trespasser"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "According to the passage, leadership is:",
+    "passage": "Leadership in the armed forces is not simply a matter of giving orders. A good leader must possess courage, discipline, sound judgement and the ability to inspire confidence among subordinates. During challenging situations, a leader is expected to remain composed and take decisions after assessing available information. Effective leadership also involves accepting responsibility for the consequences of one's decisions.",
+    "options": ["Merely giving orders", "Based only on physical strength", "More than simply giving orders", "Dependent entirely on rank"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "A good leader should inspire:",
+    "passage": "Leadership in the armed forces is not simply a matter of giving orders. A good leader must possess courage, discipline, sound judgement and the ability to inspire confidence among subordinates. During challenging situations, a leader is expected to remain composed and take decisions after assessing available information. Effective leadership also involves accepting responsibility for the consequences of one's decisions.",
+    "options": ["Fear", "Confidence", "Competition", "Suspicion"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "During challenging situations, a leader should:",
+    "passage": "Leadership in the armed forces is not simply a matter of giving orders. A good leader must possess courage, discipline, sound judgement and the ability to inspire confidence among subordinates. During challenging situations, a leader is expected to remain composed and take decisions after assessing available information. Effective leadership also involves accepting responsibility for the consequences of one's decisions.",
+    "options": ["Avoid making decisions", "Remain composed", "Depend entirely on subordinates", "Ignore available information"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "The word “consequences” means:",
+    "passage": "Leadership in the armed forces is not simply a matter of giving orders. A good leader must possess courage, discipline, sound judgement and the ability to inspire confidence among subordinates. During challenging situations, a leader is expected to remain composed and take decisions after assessing available information. Effective leadership also involves accepting responsibility for the consequences of one's decisions.",
+    "options": ["Causes", "Results", "Instructions", "Obstacles"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "Which quality is NOT mentioned as a quality of a good leader?",
+    "passage": "Leadership in the armed forces is not simply a matter of giving orders. A good leader must possess courage, discipline, sound judgement and the ability to inspire confidence among subordinates. During challenging situations, a leader is expected to remain composed and take decisions after assessing available information. Effective leadership also involves accepting responsibility for the consequences of one's decisions.",
+    "options": ["Courage", "Discipline", "Sound judgement", "Physical strength"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 21,
+    "question": "[Maths] यदि किसी संख्या का 40%, उसी संख्या के 25% से 45 अधिक है, तो संख्या क्या है?",
+    "options": ["250", "300", "350", "400"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "[Reasoning] अगली संख्या ज्ञात कीजिए: 7, 15, 31, 63, 127, ?",
+    "options": ["253", "254", "255", "257"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "[GK] भारत में राष्ट्रपति का चुनाव किसके द्वारा किया जाता है?",
+    "options": ["केवल संसद", "केवल राज्य विधानसभाएँ", "निर्वाचक मंडल", "सर्वोच्च न्यायालय"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "[Maths] A किसी काम को 15 दिनों में और B उसी काम को 20 दिनों में पूरा करता है। दोनों 4 दिन साथ काम करते हैं। शेष काम A अकेला कितने दिनों में पूरा करेगा?",
+    "options": ["6 दिन", "7 दिन", "8 दिन", "9 दिन"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "[Reasoning] यदि COMMAND → DPNNBOE, तो AIRFORCE → ?",
+    "options": ["BJS GPSDF", "BJS GPSDF", "BJSGPSDF", "BJSGPSDD"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "[GK] भारतीय वायु सेना दिवस कब मनाया जाता है?",
+    "options": ["15 जनवरी", "26 जनवरी", "8 अक्टूबर", "4 दिसंबर"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "[Maths] एक दुकानदार किसी वस्तु को उसके क्रय मूल्य से 30% अधिक पर अंकित करता है और फिर 10% discount देता है। उसका लाभ प्रतिशत कितना है?",
+    "options": ["15%", "17%", "18%", "20%"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "[Reasoning] एक व्यक्ति दक्षिण की ओर मुख करके खड़ा है। वह 135° clockwise और फिर 225° anticlockwise घूमता है। अब वह किस दिशा में मुख किए है?",
+    "options": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "[GK] भारतीय संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?",
+    "options": ["भाग I", "भाग II", "भाग III", "भाग IV"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "[Maths] यदि x + 1/x = 5, तो x² + 1/x² = ?",
+    "options": ["21", "23", "25", "27"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "[Reasoning] श्रृंखला पूरी कीजिए: D, I, P, Y, J, ?",
+    "options": ["W", "V", "U", "T"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "[GK] निम्न में से कौन-सा भारत का सर्वोच्च युद्धकालीन वीरता पुरस्कार है?",
+    "options": ["Ashoka Chakra", "Maha Vir Chakra", "Param Vir Chakra", "Vir Chakra"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "[Maths] एक संख्या को पहले 20% बढ़ाया गया और फिर 20% घटाया गया। मूल संख्या की तुलना में अंतिम संख्या में क्या परिवर्तन हुआ?",
+    "options": ["4% वृद्धि", "4% कमी", "कोई परिवर्तन नहीं", "2% कमी"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "[Reasoning] A, B का भाई है। C, A की माँ है। D, C का पिता है। E, D की पत्नी है। E का B से क्या संबंध है?",
+    "options": ["माँ", "दादी", "नानी", "बहन"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "[GK] भारतीय वायु सेना का motto क्या है?",
+    "options": ["Satyameva Jayate", "Touch the Sky with Glory", "Service Before Self", "Victory Through Air"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "[Maths] 12, 18 और 30 का LCM क्या है?",
+    "options": ["90", "120", "180", "360"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "[Reasoning] एक पंक्ति में P बाएँ से 21वाँ है और Q दाएँ से 17वाँ है। यदि उनके बीच 15 व्यक्ति हैं, तो कुल कितने व्यक्ति हो सकते हैं?",
+    "options": ["52", "53", "54", "55"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "[GK] पृथ्वी के वायुमंडल में सर्वाधिक मात्रा में कौन-सी गैस है?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "[Maths] एक राशि पर 2 वर्षों के लिए 10% वार्षिक चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹80 है। मूलधन कितना है?",
+    "options": ["₹6,000", "₹7,000", "₹8,000", "₹9,000"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "[Reasoning] यदि किसी कूट भाषा में MANGO = 13-1-14-7-15, तो APPLE का code क्या होगा?",
+    "options": ["1-16-16-12-5", "1-15-15-12-5", "1-16-15-12-5", "2-16-16-12-5"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "[GK] मानव शरीर में insulin का उत्पादन मुख्यतः किस अंग द्वारा होता है?",
+    "options": ["Liver", "Kidney", "Pancreas", "Spleen"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "[Maths] एक नाव शांत जल में 12 km/h की गति से चलती है और धारा की गति 3 km/h है। नाव को धारा के विपरीत 45 km जाने में कितना समय लगेगा?",
+    "options": ["3 घंटे", "4 घंटे", "5 घंटे", "6 घंटे"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "[Reasoning] कथन: सभी सैनिक अनुशासित हैं। कुछ अनुशासित व्यक्ति खिलाड़ी हैं। निष्कर्ष: I. कुछ सैनिक खिलाड़ी हैं। II. सभी सैनिक अनुशासित हैं।",
+    "options": ["केवल I", "केवल II", "I और II दोनों", "कोई नहीं"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "[GK] भारत का पहला satellite कौन-सा था?",
+    "options": ["Rohini", "Aryabhata", "Bhaskara", "INSAT-1A"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "[Maths] यदि a : b = 4 : 7 और b : c = 14 : 15, तो a : b : c क्या होगा?",
+    "options": ["4 : 7 : 15", "8 : 14 : 15", "8 : 14 : 30", "4 : 14 : 15"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "[Reasoning] विषम संख्या चुनिए:",
+    "options": ["64", "125", "216", "343"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "[GK] 2026 में आयोजित Commonwealth Games की मेजबानी किस शहर ने की?",
+    "options": ["Birmingham", "Glasgow", "Manchester", "Edinburgh"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "[Maths] एक आयत का क्षेत्रफल 240 cm² है और उसकी लंबाई उसकी चौड़ाई से 4 cm अधिक है। उसकी चौड़ाई क्या है?",
+    "options": ["12 cm", "14 cm", "16 cm", "18 cm"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "[Reasoning] यदि P > Q, Q = R, R > S और S > T, तो निम्न में से कौन-सा निश्चित रूप से सही है?",
+    "options": ["P < T", "P = T", "P > T", "Q < T"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "[Current Affairs] 2026 में Indian Air Force ने Pitch Black exercise में किस aircraft के साथ भाग लिया?",
+    "options": ["Rafale", "MiG-21", "Tejas Mk-1A only", "Jaguar only"],
+    "correctAnswer": 0
+  }
 ]
