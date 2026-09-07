@@ -1,6 +1,327 @@
 [
-  { "id": 1, "question": "Fill in the blank: The sun rises in the ___.", "options": ["West", "East", "North", "South"], "correctAnswer": 1 },
-  { "id": 2, "question": "What is 9 × 9?", "options": ["72", "79", "81", "89"], "correctAnswer": 2 },
-  { "id": 3, "question": "Which is a noun?", "options": ["quickly", "blue", "happiness", "softly"], "correctAnswer": 2 },
-  { "id": 4, "question": "Which ocean lies between Africa and Australia?", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "correctAnswer": 1 }
+  {
+    "id": 1,
+    "question": "The committee, along with its members, ______ expected to submit its report today.",
+    "options": ["are", "were", "is", "have"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Scarcely had he entered the room than the lights went out.",
+      "Scarcely he had entered the room when the lights went out.",
+      "Scarcely had he entered the room when the lights went out.",
+      "Scarcely did he entered the room when the lights went out."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Identify the error: “Neither the quality nor the quantity of these materials are satisfactory.”",
+    "options": ["Neither the quality", "nor the quantity", "are satisfactory", "these materials"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Change into indirect speech: The teacher said, “Why are you wasting your time?”",
+    "options": [
+      "The teacher asked me why I was wasting my time.",
+      "The teacher asked me why was I wasting my time.",
+      "The teacher said why I was wasting my time.",
+      "The teacher asked why am I wasting my time."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive voice: “Someone has stolen my documents.”",
+    "options": [
+      "My documents have stolen.",
+      "My documents have been stolen.",
+      "My documents were being stolen.",
+      "My documents had been stolen."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "If he ______ earlier, he would have caught the train.",
+    "options": ["arrived", "had arrived", "has arrived", "would arrive"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "The officer is responsible ______ maintaining discipline in the unit.",
+    "options": ["to", "of", "for", "with"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Synonym of “Obsolete” is:",
+    "options": ["Modern", "Outdated", "Useful", "Advanced"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Antonym of “Benevolent” is:",
+    "options": ["Kind", "Generous", "Malevolent", "Helpful"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": ["Entreprenuer", "Entrepreneur", "Enterpreneur", "Entreprenure"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "The moment the alarm ______, everyone rushed towards the exit.",
+    "options": ["rang", "had rung", "has rung", "was ringing"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "“At sixes and sevens” means:",
+    "options": ["In perfect order", "In confusion", "In agreement", "In danger"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "He insisted ______ paying the entire bill himself.",
+    "options": ["to", "for", "on", "at"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She is one of those officers who has distinguished herself.",
+      "She is one of those officers who have distinguished themselves.",
+      "She is one of those officer who have distinguished herself.",
+      "She is one among those officers who has distinguished themselves."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One who studies earthquakes is called:",
+    "options": ["Geologist", "Seismologist", "Meteorologist", "Ecologist"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "According to the passage, preparedness involves:",
+    "passage": "Preparedness is a fundamental requirement for any defence organisation. It involves not only maintaining equipment and infrastructure but also ensuring that personnel remain physically fit, mentally alert and professionally competent. Regular training and realistic exercises help personnel respond effectively to unexpected situations. A force that remains prepared during peaceful periods is better positioned to deal with emergencies when they arise.",
+    "options": ["Equipment only", "Personnel only", "Equipment, infrastructure and capable personnel", "Infrastructure only"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Regular training helps personnel:",
+    "passage": "Preparedness is a fundamental requirement for any defence organisation. It involves not only maintaining equipment and infrastructure but also ensuring that personnel remain physically fit, mentally alert and professionally competent. Regular training and realistic exercises help personnel respond effectively to unexpected situations. A force that remains prepared during peaceful periods is better positioned to deal with emergencies when they arise.",
+    "options": ["Avoid responsibility", "Respond effectively to unexpected situations", "Reduce their physical fitness", "Ignore emergencies"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Personnel should remain:",
+    "passage": "Preparedness is a fundamental requirement for any defence organisation. It involves not only maintaining equipment and infrastructure but also ensuring that personnel remain physically fit, mentally alert and professionally competent. Regular training and realistic exercises help personnel respond effectively to unexpected situations. A force that remains prepared during peaceful periods is better positioned to deal with emergencies when they arise.",
+    "options": ["Physically fit and mentally alert", "Physically weak", "Professionally inactive", "Emotionally careless"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "The word “competent” means:",
+    "passage": "Preparedness is a fundamental requirement for any defence organisation. It involves not only maintaining equipment and infrastructure but also ensuring that personnel remain physically fit, mentally alert and professionally competent. Regular training and realistic exercises help personnel respond effectively to unexpected situations. A force that remains prepared during peaceful periods is better positioned to deal with emergencies when they arise.",
+    "options": ["Capable", "Confused", "Careless", "Untrained"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "The passage mainly emphasizes:",
+    "passage": "Preparedness is a fundamental requirement for any defence organisation. It involves not only maintaining equipment and infrastructure but also ensuring that personnel remain physically fit, mentally alert and professionally competent. Regular training and realistic exercises help personnel respond effectively to unexpected situations. A force that remains prepared during peaceful periods is better positioned to deal with emergencies when they arise.",
+    "options": ["The importance of preparedness", "The importance of weapons only", "Peaceful periods being unnecessary", "Infrastructure being more important than personnel"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "[Maths] यदि किसी संख्या में 25% की वृद्धि करने पर 450 प्राप्त होता है, तो मूल संख्या क्या थी?",
+    "options": ["320", "340", "360", "380"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "[Reasoning] अगली संख्या ज्ञात कीजिए: 6, 13, 27, 55, 111, ?",
+    "options": ["221", "222", "223", "225"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "[GK] भारतीय संसद के दो सदन कौन-से हैं?",
+    "options": ["लोकसभा और विधानसभा", "राज्यसभा और विधानसभा", "लोकसभा और राज्यसभा", "राज्यसभा और विधान परिषद"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "[Maths] A और B की वर्तमान आयु का अनुपात 5 : 7 है। 6 वर्ष बाद अनुपात 3 : 4 हो जाएगा। A की वर्तमान आयु कितनी है?",
+    "options": ["20 वर्ष", "24 वर्ष", "30 वर्ष", "35 वर्ष"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "[Reasoning] एक कूट भाषा में BRAVE = 2-18-1-22-5। उसी नियम से COURAGE का code क्या होगा?",
+    "options": ["3-15-21-18-1-7-5", "3-15-20-18-1-7-5", "3-16-21-18-1-7-5", "2-15-21-18-1-7-5"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "[GK] भारतीय वायु सेना की स्थापना किस वर्ष हुई थी?",
+    "options": ["1928", "1932", "1942", "1947"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "[Maths] एक वस्तु को ₹1,200 में बेचने पर 20% लाभ होता है। उसका क्रय मूल्य क्या है?",
+    "options": ["₹900", "₹960", "₹1,000", "₹1,020"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "[Reasoning] एक व्यक्ति उत्तर की ओर 10 km जाता है। फिर दाएँ मुड़कर 15 km जाता है। फिर दाएँ मुड़कर 10 km और अंत में बाएँ मुड़कर 5 km जाता है। वह प्रारंभिक स्थान से किस दिशा में है?",
+    "options": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "[GK] भारत में हरित क्रांति के प्रमुख वास्तुकार के रूप में किसे जाना जाता है?",
+    "options": ["Norman Borlaug", "M. S. Swaminathan", "Verghese Kurien", "Homi Bhabha"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "[Maths] यदि a + b = 12 और ab = 35, तो a² + b² का मान क्या होगा?",
+    "options": ["64", "70", "74", "84"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "[Reasoning] श्रृंखला पूरी कीजिए: A, D, I, P, Y, ?",
+    "options": ["H", "J", "K", "L"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "[GK] भारतीय संविधान में Directive Principles of State Policy किस भाग में हैं?",
+    "options": ["Part II", "Part III", "Part IV", "Part V"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "[Maths] एक ट्रेन 54 km/h की गति से चलती है। 20 सेकंड में वह कितनी दूरी तय करेगी?",
+    "options": ["250 m", "300 m", "350 m", "400 m"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "[Reasoning] एक व्यक्ति की ओर इशारा करके सीमा ने कहा, “वह मेरे पिता की माँ के इकलौते बेटे का पुत्र है।” वह व्यक्ति सीमा से किस संबंध में है?",
+    "options": ["भाई", "चाचा", "मामा", "पिता"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "[GK] निम्न में से कौन-सा planet “Red Planet” कहलाता है?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "[Maths] ₹5,000 पर 8% वार्षिक दर से 3 वर्ष का Simple Interest कितना होगा?",
+    "options": ["₹1,000", "₹1,100", "₹1,200", "₹1,400"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "[Reasoning] यदि एक पंक्ति में A बाएँ से 14वाँ और B दाएँ से 19वाँ है तथा उनके बीच 10 व्यक्ति हैं, तो कुल व्यक्तियों की संख्या कितनी है?",
+    "options": ["41", "42", "43", "44"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "[GK] मानव शरीर में oxygen का परिवहन मुख्यतः किसके द्वारा होता है?",
+    "options": ["Plasma", "Haemoglobin", "Platelets", "WBC"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "[Maths] 15, 20 और 30 का HCF क्या है?",
+    "options": ["3", "5", "10", "15"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "[Reasoning] कथन: सभी aircraft मशीन हैं। कुछ मशीनें तेज हैं। निष्कर्ष: I. कुछ aircraft तेज हैं। II. सभी aircraft मशीन हैं।",
+    "options": ["केवल I", "केवल II", "दोनों", "कोई नहीं"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "[GK] भारत का राष्ट्रीय खेल आधिकारिक रूप से कौन-सा घोषित है?",
+    "options": ["Hockey", "Cricket", "Kabaddi", "भारत का कोई आधिकारिक राष्ट्रीय खेल नहीं है"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 42,
+    "question": "[Maths] किसी आयत की लंबाई 18 cm और चौड़ाई 12 cm है। उसके क्षेत्रफल और परिमाप का अनुपात क्या है?",
+    "options": ["3 : 1", "4 : 1", "5 : 1", "6 : 1"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "[Reasoning] यदि PENCIL को प्रत्येक अक्षर के अगले अक्षर से code किया जाए, तो PENCIL का code क्या होगा?",
+    "options": ["QFODJM", "QFODIL", "QFODKM", "RFPEKN"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "[GK] Vitamin D की कमी से कौन-सा रोग हो सकता है?",
+    "options": ["Scurvy", "Rickets", "Beriberi", "Night blindness"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "[Maths] एक मिश्रण में दूध और पानी का अनुपात 5 : 3 है। यदि इसमें 16 लीटर पानी और डाल दिया जाए तो अनुपात 5 : 7 हो जाता है। प्रारंभिक मिश्रण में दूध कितना था?",
+    "options": ["15 L", "20 L", "25 L", "30 L"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "[Reasoning] विषम संख्या चुनिए:",
+    "options": ["27", "64", "125", "225"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 47,
+    "question": "[GK] भारत का पहला स्वदेशी विमानवाहक पोत कौन-सा है?",
+    "options": ["INS Vikrant", "INS Vikramaditya", "INS Viraat", "INS Vishal"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "[Maths] यदि x : y = 3 : 4 और y : z = 8 : 9, तो x : y : z क्या होगा?",
+    "options": ["3 : 4 : 9", "6 : 8 : 9", "3 : 8 : 9", "6 : 4 : 9"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "[Reasoning] A, B से बड़ा है। C, A से छोटा लेकिन B से बड़ा है। D, B से छोटा है। E, D से छोटा है। सबसे बड़ा कौन है?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "[Current Affairs] 2026 में भारत के Chief of Defence Staff (CDS) के रूप में किसने पदभार संभाला?",
+    "options": ["General Anil Chauhan", "General Manoj Pande", "General NS Raja Subramani", "Air Chief Marshal A. P. Singh"],
+    "correctAnswer": 2
+  }
 ]

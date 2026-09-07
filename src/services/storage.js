@@ -8,6 +8,7 @@ import gkTest2Questions from '../data/gk/test2.json';
 import gkTest3Questions from '../data/gk/test3.json';
 import allTest1Questions from '../data/all/test1.json';
 import allTest2Questions from '../data/all/test2.json';
+import allTest3Questions from '../data/all/test3.json';
 import reasoningTest1Questions from '../data/reasoning/test1.json';
 import reasoningTest2Questions from '../data/reasoning/test2.json';
 import reasoningTest3Questions from '../data/reasoning/test3.json';
@@ -455,6 +456,28 @@ function migrateAllTest2(db) {
   return db;
 }
 
+function migrateAllTest3(db) {
+  const seededTest = seedDb.tests.find((test) => test.id === 'all-test3');
+  if (!seededTest) {
+    return db;
+  }
+
+  const testIndex = db.tests.findIndex((test) => test.id === seededTest.id);
+  if (testIndex >= 0) {
+    db.tests[testIndex] = { ...seededTest };
+  } else {
+    db.tests.push({ ...seededTest });
+  }
+
+  const normalizedQuestions = normalizeQuestions('all', 'test3', allTest3Questions);
+  db.questions = [
+    ...db.questions.filter((question) => question.testId !== 'all-test3'),
+    ...normalizedQuestions,
+  ];
+
+  return db;
+}
+
 function migrateReasoningTest3(db) {
   const seededTest = seedDb.tests.find((test) => test.id === 'reasoning-test3');
   if (!seededTest) {
@@ -490,7 +513,8 @@ export function ensureDb() {
     const migratedGkTest3 = migrateGkTest3(migratedGkTest2);
     const migratedAllTest1 = migrateAllTest1(migratedGkTest3);
     const migratedAllTest2 = migrateAllTest2(migratedAllTest1);
-    const migrated = migrateReasoningTest1(migratedAllTest2);
+    const migratedAllTest3 = migrateAllTest3(migratedAllTest2);
+    const migrated = migrateReasoningTest1(migratedAllTest3);
     const migratedReasoning2 = migrateReasoningTest2(migrated);
     const migratedReasoning3 = migrateReasoningTest3(migratedReasoning2);
     saveJson(DB_KEY, migratedReasoning3);
