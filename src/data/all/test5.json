@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "question": "Neither of the two proposals ___ acceptable to the committee.",
+    "options": ["are", "were", "is", "have"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "He is senior ___ me by three years.",
+    "options": ["than", "to", "from", "with"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error: Each of the players / have been given / a separate locker / by the management.",
+    "options": ["Each of the players", "has been given", "a separate locker", "by the management"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct indirect speech: The teacher said to the boy, “Do not waste your time.”",
+    "options": [
+      "The teacher told the boy that he did not waste his time.",
+      "The teacher advised the boy not to waste his time.",
+      "The teacher said the boy not to waste his time.",
+      "The teacher ordered that the boy did not waste time."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive voice: People believe that the scientist has discovered a new element.",
+    "options": [
+      "It is believed that a new element has been discovered by the scientist.",
+      "It was believed that the scientist discovered a new element.",
+      "A new element is believed that the scientist discovered.",
+      "The scientist has been believed to discover a new element."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "If I ___ about the delay, I would have informed you earlier.",
+    "options": ["know", "knew", "had known", "have known"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "The officer insisted ___ seeing the original documents.",
+    "options": ["to", "on", "for", "at"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the synonym of “Meticulous”:",
+    "options": ["Careless", "Precise", "Hasty", "Ordinary"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Obsolete”:",
+    "options": ["Ancient", "Outdated", "Modern", "Useless"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word:",
+    "options": ["Conscientious", "Consciencious", "Conscientous", "Conscietious"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct option: By the time we reached the station, the train ___.",
+    "options": ["leaves", "has left", "had left", "left"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "The idiom “A blessing in disguise” means:",
+    "options": [
+      "An obvious advantage",
+      "Something appearing bad but proving beneficial",
+      "A hidden enemy",
+      "An unexpected punishment"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct preposition: She has great affection ___ her younger brother.",
+    "options": ["on", "at", "for", "with"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Mathematics are my favourite subject.",
+      "Mathematics is my favourite subject.",
+      "Mathematics were my favourite subject.",
+      "Mathematics have been my favourite subject."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One-word substitution for: “A person who can use both hands equally well”",
+    "options": ["Ambivalent", "Ambidextrous", "Amphibious", "Anonymous"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "According to the passage, discipline primarily means:",
+    "passage": "Discipline is not merely the ability to obey orders. It is the habit of performing one's duty consistently, even when no one is watching. In military life, discipline provides the foundation for teamwork, punctuality and responsibility. A disciplined person understands that individual actions can affect the entire unit. Therefore, discipline is considered essential not only for success in the armed forces but also for developing a responsible character.",
+    "options": ["Blind obedience", "Consistent performance of duty", "Avoiding responsibility", "Following others"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Which quality is directly associated with discipline in the passage?",
+    "passage": "Discipline is not merely the ability to obey orders. It is the habit of performing one's duty consistently, even when no one is watching. In military life, discipline provides the foundation for teamwork, punctuality and responsibility. A disciplined person understands that individual actions can affect the entire unit. Therefore, discipline is considered essential not only for success in the armed forces but also for developing a responsible character.",
+    "options": ["Laziness", "Punctuality", "Individualism", "Competition"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Why is discipline important in military life?",
+    "passage": "Discipline is not merely the ability to obey orders. It is the habit of performing one's duty consistently, even when no one is watching. In military life, discipline provides the foundation for teamwork, punctuality and responsibility. A disciplined person understands that individual actions can affect the entire unit. Therefore, discipline is considered essential not only for success in the armed forces but also for developing a responsible character.",
+    "options": [
+      "It eliminates teamwork.",
+      "It promotes personal freedom.",
+      "It forms the foundation of teamwork and responsibility.",
+      "It reduces accountability."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "A disciplined person's actions are important because:",
+    "passage": "Discipline is not merely the ability to obey orders. It is the habit of performing one's duty consistently, even when no one is watching. In military life, discipline provides the foundation for teamwork, punctuality and responsibility. A disciplined person understands that individual actions can affect the entire unit. Therefore, discipline is considered essential not only for success in the armed forces but also for developing a responsible character.",
+    "options": [
+      "They affect only himself.",
+      "They can affect the entire unit.",
+      "They are always rewarded.",
+      "They are never noticed."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "The most suitable title for the passage is:",
+    "passage": "Discipline is not merely the ability to obey orders. It is the habit of performing one's duty consistently, even when no one is watching. In military life, discipline provides the foundation for teamwork, punctuality and responsibility. A disciplined person understands that individual actions can affect the entire unit. Therefore, discipline is considered essential not only for success in the armed forces but also for developing a responsible character.",
+    "options": ["Military Weapons", "Importance of Discipline", "Individual Freedom", "Military Training Methods"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "[Reasoning] यदि किसी संख्या का 3/8 भाग 45 है, तो उस संख्या का 40% कितना होगा?",
+    "options": ["42", "48", "54", "60"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "[Reasoning] अगली संख्या ज्ञात कीजिए: 7, 14, 30, 63, 130, ?",
+    "options": ["261", "263", "265", "267"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "[Reasoning] यदि MANGO = 50, तो APPLE = ? (अक्षरों के क्रमांक का योग लेकर)",
+    "options": ["50", "55", "60", "65"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "[Reasoning] एक आदमी 8 km उत्तर चलता है, फिर दाएँ मुड़कर 6 km चलता है, फिर दाएँ मुड़कर 8 km चलता है। वह प्रारंभिक स्थान से कितनी दूरी पर है?",
+    "options": ["4 km", "6 km", "8 km", "14 km"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "[Reasoning] एक कूट भाषा में SOLDIER को REIDLOS लिखा जाता है। CAPTAIN को कैसे लिखा जाएगा?",
+    "options": ["N I A T P A C", "NIATPAC", "NIATCAP", "NIATCAPT"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "[Reasoning] एक महिला की ओर इशारा करते हुए राज ने कहा, “वह मेरे दादा के इकलौते बेटे की बेटी है।” वह महिला राज से किस प्रकार संबंधित है?",
+    "options": ["बहन", "माँ", "पुत्री", "बुआ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "[Reasoning] यदि सभी P, Q हैं; कुछ Q, R हैं; और कोई R, S नहीं है, तो कौन-सा निष्कर्ष निश्चित रूप से सही है?",
+    "options": ["कुछ P, R हैं", "कोई P, S नहीं है", "कुछ Q, S नहीं हैं", "सभी Q, P हैं"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "[Reasoning] missing term ज्ञात कीजिए: AZ, BY, CX, DW, ?",
+    "options": ["EU", "EV", "FU", "EW"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "[Reasoning] एक घड़ी 3:40 दिखा रही है। hour और minute hands के बीच छोटा कोण कितना होगा?",
+    "options": ["120°", "130°", "140°", "150°"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "[Reasoning] पाँच व्यक्ति P, Q, R, S और T एक पंक्ति में खड़े हैं। P, Q से लंबा लेकिन R से छोटा है। S, T से छोटा लेकिन R से लंबा है। सबसे लंबा कौन है?",
+    "options": ["P", "R", "S", "T"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 31,
+    "question": "[Maths] यदि किसी संख्या का 25% 45 है, तो उसी संख्या का 16% कितना होगा?",
+    "options": ["24.8", "26.8", "28.8", "30.8"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "[Maths] एक राशि 2 वर्षों में 5% चक्रवृद्धि ब्याज पर ₹8,820 हो जाती है। मूलधन ज्ञात कीजिए।",
+    "options": ["₹8,000", "₹8,200", "₹8,400", "₹8,500"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "[Maths] एक दुकानदार किसी वस्तु पर 40% अधिक अंकित मूल्य रखता है और 10% तथा 5% की क्रमिक छूट देता है। उसका लाभ प्रतिशत कितना है?",
+    "options": ["17.2%", "19.7%", "20%", "21.5%"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "[Maths] 8 संख्याओं का औसत 24 है। यदि 18 को 34 से बदल दिया जाए, तो नया औसत क्या होगा?",
+    "options": ["25", "26", "27", "28"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "[Maths] 180 m लंबी एक ट्रेन 12 seconds में एक pole को पार करती है। इसकी गति क्या है?",
+    "options": ["45 km/h", "48 km/h", "54 km/h", "60 km/h"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "[Maths] A 12 दिनों में और B 18 दिनों में काम पूरा कर सकता है। वे 4 दिन साथ काम करते हैं। बचा हुआ कार्य कितना भाग है?",
+    "options": ["5/9", "4/9", "7/18", "1/3"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "[Maths] यदि x + 1/x = 5, तो x² + 1/x² का मान ज्ञात कीजिए।",
+    "options": ["21", "23", "25", "27"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "[Maths] दो संख्याओं का HCF 16 और LCM 240 है। यदि एक संख्या 48 है, तो दूसरी संख्या क्या होगी?",
+    "options": ["60", "70", "80", "90"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "[Maths] एक वृत्त का क्षेत्रफल 154 cm² है। π = 22/7 लेने पर इसकी परिधि कितनी होगी?",
+    "options": ["44 cm", "48 cm", "49 cm", "56 cm"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "[Maths] एक नाव 48 km downstream 4 घंटे में और वही दूरी upstream 6 घंटे में तय करती है। शांत जल में नाव की गति कितनी है?",
+    "options": ["8 km/h", "9 km/h", "10 km/h", "12 km/h"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "question": "[GK] भारतीय संविधान का कौन-सा अनुच्छेद Fundamental Duties से संबंधित है?",
+    "options": ["Article 32", "Article 51A", "Article 44", "Article 368"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "[GK] Siachen Glacier कहाँ स्थित है?",
+    "options": ["Himachal Pradesh", "Uttarakhand", "Ladakh", "Sikkim"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 43,
+    "question": "[GK] निम्न में से कौन-सी Indian missile surface-to-air missile system है?",
+    "options": ["BrahMos", "Akash", "Agni-V", "Prithvi-II"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "[GK] International Monetary Fund (IMF) का headquarters कहाँ है?",
+    "options": ["Geneva", "New York", "Washington, D.C.", "Paris"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "question": "[GK] सूर्य के प्रकाश में मानव त्वचा में मुख्यतः कौन-सा vitamin बनता है?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 46,
+    "question": "[GK] व्यक्तिगत Olympic gold medal जीतने वाले पहले भारतीय कौन थे?",
+    "options": ["Neeraj Chopra", "Abhinav Bindra", "Sushil Kumar", "Rajyavardhan Rathore"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "[GK] “Sorrow of Bihar” किस नदी को कहा जाता है?",
+    "options": ["Ganga", "Kosi", "Son", "Gandak"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "[GK] भारत के Attorney General की नियुक्ति कौन करता है?",
+    "options": ["प्रधानमंत्री", "भारत के मुख्य न्यायाधीश", "भारत के राष्ट्रपति", "संसद"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "[GK] भारत के indigenous Light Combat Aircraft (LCA) programme से कौन-सा aircraft जुड़ा है?",
+    "options": ["Tejas", "Sukhoi-30MKI", "Mirage-2000", "MiG-29"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "[GK] भारत के civilian space programme के लिए कौन-सा संगठन जिम्मेदार है?",
+    "options": ["DRDO", "HAL", "ISRO", "BEL"],
+    "correctAnswer": 2
+  }
+]
