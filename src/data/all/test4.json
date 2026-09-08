@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "A series of lectures on military history ______ being organised next month.",
+    "options": ["are", "were", "is", "have"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Identify the error: “Each of the officers were given a separate room during the conference.”",
+    "options": ["Each of the officers", "were given", "a separate room", "during the conference"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct indirect speech: The officer said to the recruit, “Have you completed your training?”",
+    "options": [
+      "The officer asked the recruit whether he had completed his training.",
+      "The officer asked the recruit whether had he completed his training.",
+      "The officer said to the recruit if he has completed his training.",
+      "The officer asked that the recruit completed his training."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct passive voice: “Who has broken the window?”",
+    "options": [
+      "By whom has the window been broken?",
+      "By whom the window has been broken?",
+      "Who has the window been broken by?",
+      "By whom was the window broken?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "If they ______ the warning seriously, the accident could have been avoided.",
+    "options": ["took", "had taken", "have taken", "would take"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "The commander congratulated the cadets ______ their excellent performance.",
+    "options": ["for", "at", "on", "with"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Choose the synonym of “Adversity”.",
+    "options": ["Prosperity", "Difficulty", "Celebration", "Opportunity"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the antonym of “Candid”.",
+    "options": ["Frank", "Honest", "Deceitful", "Sincere"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "Choose the correctly spelt word.",
+    "options": ["Maintenance", "Maintainance", "Maintanance", "Maintenence"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He has been working here since five years.",
+      "He has been working here for five years.",
+      "He is working here since five years.",
+      "He had been working here since five years."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "“The meeting was postponed because the chairman was absent.” Choose the correct complex-to-simple transformation.",
+    "options": [
+      "The chairman being absent, the meeting was postponed.",
+      "The chairman was absent and the meeting postponed.",
+      "The meeting postponed the chairman's absence.",
+      "Being absent, the meeting postponed the chairman."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "“To leave no stone unturned” means:",
+    "options": ["To make no effort", "To try every possible means", "To create obstacles", "To hide evidence"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "He is accustomed ______ working under pressure.",
+    "options": ["with", "for", "to", "at"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "The news are too good to be true.",
+      "The news is too good to be true.",
+      "The news were too good to be true.",
+      "The news have been too good to be true."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "A person who deliberately avoids the company of others is called:",
+    "options": ["Introvert", "Recluse", "Optimist", "Philanthropist"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "Military missions often depend on:",
+    "passage": "Teamwork is particularly important in military operations because the success of a mission often depends on coordinated action. Individual ability is valuable, but it becomes far more effective when combined with communication, trust and mutual support. Members of a team must understand their respective responsibilities and remain prepared to assist one another when circumstances change. Lack of coordination can result in confusion and may jeopardise the entire mission.",
+    "options": ["Individual ability alone", "Coordinated action", "Physical strength alone", "Luck"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Individual ability becomes more effective when combined with:",
+    "passage": "Teamwork is particularly important in military operations because the success of a mission often depends on coordinated action. Individual ability is valuable, but it becomes far more effective when combined with communication, trust and mutual support. Members of a team must understand their respective responsibilities and remain prepared to assist one another when circumstances change. Lack of coordination can result in confusion and may jeopardise the entire mission.",
+    "options": ["Competition and rivalry", "Communication, trust and mutual support", "Secrecy and isolation", "Personal ambition"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Team members should understand:",
+    "passage": "Teamwork is particularly important in military operations because the success of a mission often depends on coordinated action. Individual ability is valuable, but it becomes far more effective when combined with communication, trust and mutual support. Members of a team must understand their respective responsibilities and remain prepared to assist one another when circumstances change. Lack of coordination can result in confusion and may jeopardise the entire mission.",
+    "options": ["Only their own ambitions", "Their respective responsibilities", "The enemy's plans only", "Their personal advantages"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Lack of coordination may:",
+    "passage": "Teamwork is particularly important in military operations because the success of a mission often depends on coordinated action. Individual ability is valuable, but it becomes far more effective when combined with communication, trust and mutual support. Members of a team must understand their respective responsibilities and remain prepared to assist one another when circumstances change. Lack of coordination can result in confusion and may jeopardise the entire mission.",
+    "options": ["Guarantee success", "Improve communication", "Cause confusion and jeopardise the mission", "Increase mutual support"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "The most suitable title for the passage is:",
+    "passage": "Teamwork is particularly important in military operations because the success of a mission often depends on coordinated action. Individual ability is valuable, but it becomes far more effective when combined with communication, trust and mutual support. Members of a team must understand their respective responsibilities and remain prepared to assist one another when circumstances change. Lack of coordination can result in confusion and may jeopardise the entire mission.",
+    "options": ["Individual Bravery", "Importance of Teamwork in Military Operations", "Modern Weapons", "Military Intelligence"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "[Maths] यदि किसी संख्या का 3/8 भाग 45 है, तो उस संख्या का 40% कितना होगा?",
+    "options": ["42", "48", "54", "60"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "[Reasoning] अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, 42, ?",
+    "options": ["54", "56", "58", "60"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "[GK] भारतीय संविधान का अनुच्छेद 32 किससे संबंधित है?",
+    "options": ["समानता का अधिकार", "संवैधानिक उपचार का अधिकार", "स्वतंत्रता का अधिकार", "शिक्षा का अधिकार"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "[Maths] A और B मिलकर किसी काम को 10 दिनों में करते हैं। A अकेला वही काम 15 दिनों में करता है। B अकेला कितने दिनों में करेगा?",
+    "options": ["20 दिन", "25 दिन", "30 दिन", "35 दिन"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "[Reasoning] यदि FIGHT → GJHIU, तो FORCE → ?",
+    "options": ["GPSDF", "GQSD F", "GPSDE", "FQRCF"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "[GK] भारत का सर्वोच्च न्यायालय कहाँ स्थित है?",
+    "options": ["मुंबई", "नई दिल्ली", "प्रयागराज", "हैदराबाद"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "[Maths] एक व्यक्ति अपनी आय का 70% खर्च करता है और ₹6,000 बचाता है। उसकी कुल आय कितनी है?",
+    "options": ["₹18,000", "₹20,000", "₹22,000", "₹24,000"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "[Reasoning] एक व्यक्ति पश्चिम की ओर मुख किए है। वह 45° clockwise, फिर 90° anticlockwise और फिर 135° clockwise घूमता है। अब वह किस दिशा में मुख किए है?",
+    "options": ["उत्तर", "दक्षिण", "पूर्व", "पश्चिम"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "[GK] निम्न में से कौन-सी नदी भारत में उत्पन्न होती है और अरब सागर में गिरती है?",
+    "options": ["Godavari", "Narmada", "Mahanadi", "Yamuna"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "[Maths] यदि x − 1/x = 3, तो x² + 1/x² का मान क्या होगा?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "[Reasoning] अक्षर श्रृंखला पूरी कीजिए: C, F, J, O, U, ?",
+    "options": ["Z", "A", "B", "C"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "[GK] भारतीय वायु सेना में “Garud” किससे संबंधित है?",
+    "options": ["Special Forces", "Tank Regiment", "Naval Command", "Missile Regiment"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "[Maths] ₹12,000 की राशि पर 2 वर्षों के लिए 10% वार्षिक चक्रवृद्धि ब्याज कितना होगा?",
+    "options": ["₹2,400", "₹2,520", "₹2,640", "₹2,880"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "[Reasoning] एक व्यक्ति की ओर इशारा करते हुए रोहित ने कहा, “उसकी बहन मेरे पिता की इकलौती बेटी है।” वह व्यक्ति रोहित से किस प्रकार संबंधित है?",
+    "options": ["भाई", "पिता", "मामा", "पुत्र"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "[GK] भारत का राष्ट्रीय जलीय जीव कौन-सा है?",
+    "options": ["Blue Whale", "Ganges River Dolphin", "Crocodile", "Olive Ridley Turtle"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "[Maths] दो संख्याओं का HCF 12 और LCM 180 है। यदि एक संख्या 36 है, तो दूसरी संख्या क्या होगी?",
+    "options": ["48", "54", "60", "72"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "[Reasoning] एक कक्षा में A का rank ऊपर से 12वाँ और नीचे से 29वाँ है। कुल विद्यार्थी कितने हैं?",
+    "options": ["39", "40", "41", "42"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "[GK] ओजोन परत मुख्यतः वायुमंडल की किस परत में पाई जाती है?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "[Maths] एक आयत की लंबाई उसकी चौड़ाई की दोगुनी है। यदि उसका क्षेत्रफल 288 cm² है, तो उसका परिमाप कितना होगा?",
+    "options": ["72 cm", "84 cm", "96 cm", "108 cm"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "[Reasoning] कथन: कुछ सैनिक अधिकारी हैं। सभी अधिकारी प्रशिक्षित हैं। निष्कर्ष: I. कुछ सैनिक प्रशिक्षित हैं। II. सभी प्रशिक्षित व्यक्ति अधिकारी हैं।",
+    "options": ["केवल I", "केवल II", "दोनों", "कोई नहीं"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "[GK] भारतीय वायु सेना का पहला operational jet fighter कौन-सा माना जाता है?",
+    "options": ["MiG-21", "Gloster Meteor", "Tejas", "Rafale"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "[Maths] एक नाव धारा के साथ 36 km की दूरी 3 घंटे में तय करती है और धारा के विरुद्ध वही दूरी 4.5 घंटे में। शांत जल में नाव की गति कितनी है?",
+    "options": ["9 km/h", "10 km/h", "11 km/h", "12 km/h"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "[Reasoning] विषम संख्या चुनिए:",
+    "options": ["81", "121", "169", "196"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 44,
+    "question": "[GK] भारत में Planning Commission के स्थान पर किस संस्था का गठन किया गया?",
+    "options": ["Finance Commission", "NITI Aayog", "GST Council", "Election Commission"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "[Maths] यदि sin θ = 3/5, जहाँ θ acute angle है, तो cos θ + tan θ का मान क्या होगा?",
+    "options": ["31/20", "29/20", "27/20", "25/20"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "[Reasoning] यदि किसी code में MARCH = 13-1-18-3-8, तो APRIL का code क्या होगा?",
+    "options": ["1-16-18-9-12", "1-15-18-9-12", "2-16-18-9-12", "1-16-17-9-12"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "[GK] भारतीय संविधान का संरक्षक किसे माना जाता है?",
+    "options": ["संसद", "राष्ट्रपति", "सर्वोच्च न्यायालय", "प्रधानमंत्री"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "[Maths] किसी परीक्षा में पास होने के लिए 40% अंक चाहिए। एक विद्यार्थी को 220 अंक मिले और वह 20 अंकों से fail हो गया। परीक्षा के कुल अंक कितने थे?",
+    "options": ["500", "550", "600", "650"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "[Reasoning] A, B से भारी है। C, A से हल्का लेकिन B से भारी है। D, C से भारी है और E, B से हल्का है। निम्न में से कौन निश्चित रूप से सबसे भारी है?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 50,
+    "question": "[Current Affairs] 2026 में Agni-4 का सफल परीक्षण किस स्थान से किया गया था?",
+    "options": ["श्रीहरिकोटा", "पोखरण", "Integrated Test Range, Chandipur", "अब्दुल कलाम द्वीप, विशाखापत्तनम"],
+    "correctAnswer": 2
+  }
+]
