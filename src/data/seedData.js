@@ -17,6 +17,7 @@ import allTest2 from './all/test2.json';
 import allTest3 from './all/test3.json';
 import allTest4 from './all/test4.json';
 import allTest5 from './all/test5.json';
+import allTest6 from './all/test6.json';
 
 function createTest(categoryId, id, title, description, durationMinutes, questions) {
   return {
@@ -111,6 +112,7 @@ export const seedDb = {
     createTest('all', 'test3', 'Test 3', 'All-in-one practice set 3', 45, allTest3),
     createTest('all', 'test4', 'Test 4', 'All-in-one practice set 4', 50, allTest4),
     createTest('all', 'test5', 'Test 5', 'All-in-one practice set 5', 50, allTest5),
+    createTest('all', 'test6', 'Test 6', 'All-in-one practice set 6', 50, allTest6),
   ],
   questions: [
     ...normalizeQuestions('english', 'test1', englishTest1),
@@ -132,6 +134,7 @@ export const seedDb = {
     ...normalizeQuestions('all', 'test3', allTest3),
     ...normalizeQuestions('all', 'test4', allTest4),
     ...normalizeQuestions('all', 'test5', allTest5),
+    ...normalizeQuestions('all', 'test6', allTest6),
   ],
   attempts: [],
   settings: {
