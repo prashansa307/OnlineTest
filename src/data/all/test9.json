@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Hardly had the commander reached the station ___ the alarm was sounded.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "while"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "The candidate was confident ___ securing the position.",
+    "options": [
+      "about",
+      "of",
+      "for",
+      "with"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\n“Neither of the two proposals are acceptable to the committee.”",
+    "options": [
+      "Neither of the two proposals",
+      "are acceptable",
+      "to the committee",
+      "No error"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Change into indirect speech:\nThe teacher said, “Why are you wasting your time?”",
+    "options": [
+      "The teacher asked why was I wasting my time.",
+      "The teacher asked why I was wasting my time.",
+      "The teacher asked why am I wasting my time.",
+      "The teacher said why I wasted my time."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Change into passive voice:\n“They will have completed the project by Monday.”",
+    "options": [
+      "The project will complete by Monday.",
+      "The project will have been completed by Monday.",
+      "The project would have completed by Monday.",
+      "The project has been completed by Monday."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Had the pilot followed the instructions, the accident ___ avoided.",
+    "options": [
+      "will be",
+      "would be",
+      "would have been",
+      "had been"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "He has been suffering ___ severe back pain for several weeks.",
+    "options": [
+      "with",
+      "from",
+      "by",
+      "of"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the word closest in meaning to “Pragmatic”.",
+    "options": [
+      "Idealistic",
+      "Practical",
+      "Emotional",
+      "Theoretical"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Transient”.",
+    "options": [
+      "Temporary",
+      "Fleeting",
+      "Permanent",
+      "Brief"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accommadation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "It was ___ unprecedented decision taken by the authorities.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "“To throw cold water on something” means:",
+    "options": [
+      "To encourage an idea",
+      "To reject or discourage an idea",
+      "To delay deliberately",
+      "To accept reluctantly"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He is senior than me.",
+      "He is senior to me.",
+      "He is more senior than me.",
+      "He is senior from me."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct form:\n“Mathematics ___ considered difficult by many students.”",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "A person who deliberately sets fire to property is called:",
+    "options": [
+      "Arsonist",
+      "Anarchist",
+      "Extortionist",
+      "Vandalist"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "passage": "Modern defence systems increasingly depend upon the integration of information rather than the strength of a single platform. Sensors collect enormous quantities of data, but data alone has limited value unless it can be processed rapidly and converted into actionable information. Consequently, modern forces invest heavily in communication networks, artificial intelligence and secure data links. However, technological superiority cannot completely replace human judgement, particularly when circumstances are uncertain or information is incomplete.",
+    "question": "According to the passage, raw data becomes valuable when it is:",
+    "options": [
+      "stored indefinitely",
+      "converted into actionable information",
+      "collected by multiple sensors",
+      "transmitted without processing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Modern defence systems increasingly depend upon the integration of information rather than the strength of a single platform. Sensors collect enormous quantities of data, but data alone has limited value unless it can be processed rapidly and converted into actionable information. Consequently, modern forces invest heavily in communication networks, artificial intelligence and secure data links. However, technological superiority cannot completely replace human judgement, particularly when circumstances are uncertain or information is incomplete.",
+    "question": "Modern forces invest heavily in all EXCEPT:",
+    "options": [
+      "communication networks",
+      "artificial intelligence",
+      "secure data links",
+      "reducing human judgement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "passage": "Modern defence systems increasingly depend upon the integration of information rather than the strength of a single platform. Sensors collect enormous quantities of data, but data alone has limited value unless it can be processed rapidly and converted into actionable information. Consequently, modern forces invest heavily in communication networks, artificial intelligence and secure data links. However, technological superiority cannot completely replace human judgement, particularly when circumstances are uncertain or information is incomplete.",
+    "question": "Technology cannot completely replace:",
+    "options": [
+      "communication",
+      "sensors",
+      "human judgement",
+      "data processing"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "passage": "Modern defence systems increasingly depend upon the integration of information rather than the strength of a single platform. Sensors collect enormous quantities of data, but data alone has limited value unless it can be processed rapidly and converted into actionable information. Consequently, modern forces invest heavily in communication networks, artificial intelligence and secure data links. However, technological superiority cannot completely replace human judgement, particularly when circumstances are uncertain or information is incomplete.",
+    "question": "Human judgement becomes particularly important when:",
+    "options": [
+      "information is complete",
+      "circumstances are uncertain",
+      "technology is unavailable",
+      "data is excessive"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "passage": "Modern defence systems increasingly depend upon the integration of information rather than the strength of a single platform. Sensors collect enormous quantities of data, but data alone has limited value unless it can be processed rapidly and converted into actionable information. Consequently, modern forces invest heavily in communication networks, artificial intelligence and secure data links. However, technological superiority cannot completely replace human judgement, particularly when circumstances are uncertain or information is incomplete.",
+    "question": "The central idea of the passage is:",
+    "options": [
+      "Technology has made humans unnecessary.",
+      "Sensors are more important than communication.",
+      "Effective defence depends on both technology and human judgement.",
+      "Artificial intelligence should replace military personnel."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "अगला नंबर खोजें:\n5, 11, 23, 47, 95, ?",
+    "options": [
+      "189",
+      "190",
+      "191",
+      "193"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "लुप्त पद ज्ञात कीजिए:\nएज़ेड, सीएक्स, ईवी, जीटी, ?",
+    "options": [
+      "आईआर",
+      "एचएस",
+      "आईक्यू",
+      "जेक्यू"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "यदि प्रत्येक अक्षर की वर्णमाला स्थिति का उपयोग करते हुए, PANCIL को 161451293 के रूप में कोडित किया जाता है, तो RULER के लिए कोड क्या है?",
+    "options": [
+      "1821112518",
+      "1821112519",
+      "182111251818",
+      "182111255"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "एक व्यक्ति 10 मीटर पूर्व की ओर चलता है, बाएं मुड़ता है और 15 मीटर चलता है, बाएं मुड़ता है और 10 मीटर चलता है, फिर दाएं मुड़ता है और 5 मीटर चलता है। प्रारंभिक बिंदु से वह किस दिशा में है?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "A, B का भाई है। C, A की माँ है। D, C का पिता है। E, D की बेटी है। E, B से किस प्रकार संबंधित है?",
+    "options": [
+      "बहन",
+      "चाची",
+      "मां",
+      "चचेरी बहन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "एक कतार में, P बाईं ओर से 17वें स्थान पर है और Q दाईं ओर से 13वें स्थान पर है। यदि P और Q के बीच 8 व्यक्ति हैं, तो कतार में कितने व्यक्ति हैं?",
+    "options": [
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "उस जोड़े का चयन करें जो दूसरों से अलग है।",
+    "options": [
+      "8 : 64",
+      "11 : 121",
+      "13 : 169",
+      "15 : 215"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 28,
+    "question": "लुप्त संख्या ज्ञात करें:\n4 7 39\n5 8 53\n6 9 ?",
+    "options": [
+      "69",
+      "72",
+      "75",
+      "78"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "यदि 15 अगस्त 2026 को शनिवार है, तो 2 अक्टूबर 2026 को कौन सा दिन होगा?",
+    "options": [
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार",
+      "रविवार"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "एक निश्चित कोड में, MARCH को NBS DI लिखा जाता है। उस कोड में APRIL को कैसे लिखा जाता है?",
+    "options": [
+      "बीक्यूएसजेएम",
+      "बीक्यूएसएचएम",
+      "बीक्यूजेएसएम",
+      "बीक्यूएसआईएल"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "यदि \\(a:b=3:5\\) और \\(b:c=10:7\\), तो \\(a:b:c\\) है:",
+    "options": [
+      "3:5:7",
+      "6:10:7",
+      "6:5:7",
+      "3:10:7"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "एक राशि 10% वार्षिक चक्रवृद्धि ब्याज पर 2 वर्ष में ₹14,520 हो जाती है। मूलधन है:",
+    "options": [
+      "₹11,500",
+      "₹12,000",
+      "₹12,500",
+      "₹13,000"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "एक आदमी अपनी आय का 75% खर्च करता है। यदि उसकी आय 20% बढ़ जाती है और व्यय 10% बढ़ जाता है, तो उसकी बचत बढ़ जाती है:",
+    "options": [
+      "40%",
+      "45%",
+      "50%",
+      "60%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 34,
+    "question": "यदि\n$$ \\frac{x}{3}+\\frac{x}{4}=\\frac{35}{12}, $$\nफिर \\(x=\\)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "8 संख्याओं का औसत 24 है। यदि एक संख्या 18 को 34 से बदल दिया जाए, तो नया औसत बन जाता है:",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "एक ट्रेन 300 मीटर लंबे प्लेटफार्म को 24 सेकंड में और एक खंभे को 12 सेकंड में पार करती है। ट्रेन की लंबाई है:",
+    "options": [
+      "250 मीटर",
+      "300 मीटर",
+      "350 मीटर",
+      "400 मीटर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "A और B क्रमशः ₹6,000 और ₹8,000 का निवेश करते हैं। A 8 महीने के लिए और B 6 महीने के लिए निवेश करता है। उनका लाभ-साझाकरण अनुपात है:",
+    "options": [
+      "1:1",
+      "2:3",
+      "3:4",
+      "4:5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "यदि \\(x^2-7x+10=0\\), तो\n$$ \\frac1{x_1}+\\frac1{x_2} $$\nहै:",
+    "options": [
+      "5/7",
+      "7/10",
+      "10/7",
+      "7/5"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "एक वर्ग का विकर्ण \\(14\\sqrt2\\) सेमी है। इसका क्षेत्रफल है:",
+    "options": [
+      "98 सेमी²",
+      "196 सेमी²",
+      "224 सेमी²",
+      "392 सेमी²"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "एक आदमी 2 घंटे में धारा के अनुकूल 24 किमी चलता है और 4 घंटे में धारा के विपरीत वापस लौटता है। धारा की गति है:",
+    "options": [
+      "3 किमी/घंटा",
+      "5 किमी/घंटा",
+      "6 किमी/घंटा",
+      "8 किमी/घंटा"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "अस्पृश्यता के विरुद्ध विशेष रूप से किस मौलिक अधिकार की गारंटी दी गई है?",
+    "options": [
+      "अनुच्छेद 14",
+      "अनुच्छेद 15",
+      "अनुच्छेद 17",
+      "अनुच्छेद 18"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "इल्बर्ट बिल विवाद किसके वायसराय काल में हुआ:",
+    "options": [
+      "लॉर्ड लिटन",
+      "लॉर्ड रिपन",
+      "लॉर्ड डफरिन",
+      "लॉर्ड कर्जन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "सरल कीजिए: Which layer of the atmosphere contains the ozone layer predominantly?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "विद्युत आवेश की SI इकाई है:",
+    "options": [
+      "वोल्ट",
+      "एम्पीयर",
+      "कूलम्ब",
+      "ओम"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "question": "ABO प्रणाली में किस रक्त समूह को सार्वभौमिक प्राप्तकर्ता के रूप में जाना जाता है?",
+    "options": [
+      "ओ−",
+      "ओ+",
+      "एबी+",
+      "एबी−"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "प्लासी का युद्ध लड़ा गया था:",
+    "options": [
+      "1757",
+      "1761",
+      "1764",
+      "1772"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "कोशिका में एटीपी उत्पादन के लिए कौन सा अंगक मुख्य रूप से जिम्मेदार है?",
+    "options": [
+      "राइबोसोम",
+      "लाइसोसोम",
+      "माइटोकॉन्ड्रिया",
+      "गोल्गी तंत्र"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "किस भारतीय मिसाइल को मुख्य रूप से सतह से हवा में मार करने वाली मिसाइल प्रणाली के रूप में वर्गीकृत किया गया है?",
+    "options": [
+      "पृथ्वी",
+      "आकाश",
+      "अग्नि",
+      "धनुष"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "- करेंट अफेयर्स\nअगस्त 2026 में, भारत ने सामरिक बल कमान के तहत अग्नि -4 का सफलतापूर्वक उड़ान परीक्षण किया। अग्नि-4 को इस प्रकार वर्गीकृत किया गया है:",
+    "options": [
+      "कम दूरी की बैलिस्टिक मिसाइल",
+      "मध्यम दूरी की बैलिस्टिक मिसाइल",
+      "अंतरमहाद्वीपीय बैलिस्टिक मिसाइल",
+      "पनडुब्बी से प्रक्षेपित बैलिस्टिक मिसाइल"
+    ],
+    "correctAnswer": 1
+  }
+]

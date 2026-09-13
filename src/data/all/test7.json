@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct option:\nThe captain, along with his assistants, ___ attending the meeting.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank:\nHe succeeded ___ solving the difficult problem.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\nNeither the teacher nor the students / was aware / of the change in the examination schedule / announced yesterday.",
+    "options": [
+      "Neither the teacher nor the students",
+      "was aware",
+      "of the change in the examination schedule",
+      "announced yesterday"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct indirect speech:\nShe said to me, “Where are you going?”",
+    "options": [
+      "She asked me where I was going.",
+      "She asked me where was I going.",
+      "She told me where I am going.",
+      "She said where I was going."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Change into passive voice:\nThe mechanic repaired the damaged engine.",
+    "options": [
+      "The damaged engine repaired the mechanic.",
+      "The damaged engine was repaired by the mechanic.",
+      "The damaged engine is repaired by the mechanic.",
+      "The mechanic was repaired by the damaged engine."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct option:\nI ___ this book twice before.",
+    "options": [
+      "read",
+      "have read",
+      "had read",
+      "am reading"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank:\nThe soldiers were prepared ___ any emergency.",
+    "options": [
+      "with",
+      "for",
+      "by",
+      "from"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Synonym of “Abundant” is:",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Limited",
+      "Insufficient"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Antonym of “Hostile” is:",
+    "options": [
+      "Aggressive",
+      "Violent",
+      "Friendly",
+      "Unfriendly"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Separate",
+      "Seperate",
+      "Seprate",
+      "Seperete"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct article:\nHe is ___ honest officer.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "The idiom “Once in a blue moon” means:",
+    "options": [
+      "Very frequently",
+      "Very rarely",
+      "At midnight",
+      "Suddenly"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct option:\nThe officer congratulated him ___ his success.",
+    "options": [
+      "for",
+      "on",
+      "at",
+      "with"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The furniture in this room are expensive.",
+      "The furniture in this room is expensive.",
+      "The furnitures in this room are expensive.",
+      "The furniture in this room have expensive."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One-word substitution:\nA person who hates mankind",
+    "options": [
+      "Philanthropist",
+      "Misanthrope",
+      "Optimist",
+      "Patriot"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "passage": "Physical fitness plays an important role in military training. A fit individual can perform demanding tasks efficiently and recover more quickly from physical exertion. However, fitness is not achieved through exercise alone. Proper nutrition, adequate sleep and mental discipline are also necessary. Therefore, maintaining fitness requires a balanced and consistent lifestyle.",
+    "question": "What is the main subject of the passage?",
+    "options": [
+      "Military weapons",
+      "Importance of physical fitness",
+      "Military history",
+      "Food production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Physical fitness plays an important role in military training. A fit individual can perform demanding tasks efficiently and recover more quickly from physical exertion. However, fitness is not achieved through exercise alone. Proper nutrition, adequate sleep and mental discipline are also necessary. Therefore, maintaining fitness requires a balanced and consistent lifestyle.",
+    "question": "A physically fit person can:",
+    "options": [
+      "Avoid all training",
+      "Perform demanding tasks efficiently",
+      "Sleep less without consequences",
+      "Avoid mental discipline"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "passage": "Physical fitness plays an important role in military training. A fit individual can perform demanding tasks efficiently and recover more quickly from physical exertion. However, fitness is not achieved through exercise alone. Proper nutrition, adequate sleep and mental discipline are also necessary. Therefore, maintaining fitness requires a balanced and consistent lifestyle.",
+    "question": "According to the passage, fitness requires:",
+    "options": [
+      "Exercise only",
+      "Exercise and competition only",
+      "A balanced and consistent lifestyle",
+      "Strict dieting only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "passage": "Physical fitness plays an important role in military training. A fit individual can perform demanding tasks efficiently and recover more quickly from physical exertion. However, fitness is not achieved through exercise alone. Proper nutrition, adequate sleep and mental discipline are also necessary. Therefore, maintaining fitness requires a balanced and consistent lifestyle.",
+    "question": "Which of the following is NOT mentioned as necessary for fitness?",
+    "options": [
+      "Proper nutrition",
+      "Adequate sleep",
+      "Mental discipline",
+      "Expensive equipment"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "passage": "Physical fitness plays an important role in military training. A fit individual can perform demanding tasks efficiently and recover more quickly from physical exertion. However, fitness is not achieved through exercise alone. Proper nutrition, adequate sleep and mental discipline are also necessary. Therefore, maintaining fitness requires a balanced and consistent lifestyle.",
+    "question": "The word “exertion” in the passage means:",
+    "options": [
+      "Physical effort",
+      "Relaxation",
+      "Entertainment",
+      "Rest"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "अगला नंबर खोजें:\n5, 11, 23, 47, 95, ?",
+    "options": [
+      "189",
+      "190",
+      "191",
+      "192"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "गुम हुआ पत्र ढूंढें:\nबी, जी, एम, टी, ?",
+    "options": [
+      "ए",
+      "बी",
+      "सी",
+      "डी"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "यदि दिल्ली को EFMIJ के रूप में कोडित किया जाता है, तो मुंबई को कैसे कोडित किया जाएगा?",
+    "options": [
+      "एनवीएनसीबीजे",
+      "एनवीएनसीबीआई",
+      "एनवीएमसीबीजे",
+      "एनयूएनसीबीजे"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "एक आदमी 10 मीटर पूर्व की ओर चलता है, बायीं ओर मुड़ता है और 7 मीटर चलता है, फिर बायीं ओर मुड़ता है और 10 मीटर चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "P, Q की बहन है। Q, R का पुत्र है। S, R का पति है। S, P से किस प्रकार संबंधित है?",
+    "options": [
+      "भाई",
+      "पिता",
+      "चाचा",
+      "दादा"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "35 छात्रों की एक पंक्ति में, अमन बाएं से 11वें स्थान पर है। दाईं ओर से उसका स्थान क्या है?",
+    "options": [
+      "23वां",
+      "24वां",
+      "25वां",
+      "26वां"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "बेजोड़ ज्ञात कीजिए:",
+    "options": [
+      "27",
+      "64",
+      "125",
+      "225"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 28,
+    "question": "सादृश्य पूरा करें:\nकिताब : लेखक :: पेंटिंग : ?",
+    "options": [
+      "गायक",
+      "चित्रकार",
+      "पाठक",
+      "संपादक"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "यदि आज सोमवार है तो 61 दिन बाद कौन सा दिन होगा?",
+    "options": [
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार",
+      "रविवार"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "लुप्त संख्या ज्ञात करें:\n3 : 12 :: 5 : 30 :: 7 : ?",
+    "options": [
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "एक संख्या 200 से 30% अधिक है। वह संख्या क्या है?",
+    "options": [
+      "240",
+      "250",
+      "260",
+      "270"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "एक कक्षा में लड़कों और लड़कियों का अनुपात 7:5 है। यदि 48 छात्र हैं, तो कितने लड़के हैं?",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "₹800 की लागत वाली एक वस्तु ₹920 में बेची जाती है। लाभ प्रतिशत ज्ञात कीजिये.",
+    "options": [
+      "12%",
+      "15%",
+      "18%",
+      "20%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "खोजें:\n$$ \\sqrt{196}+\\sqrt{144}-\\sqrt{81} $$",
+    "options": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "यदि 5 श्रमिक एक कार्य को 18 दिनों में पूरा करते हैं, तो समान दक्षता मानते हुए 9 श्रमिकों को कितने दिन लगेंगे?",
+    "options": [
+      "8 दिन",
+      "9 दिन",
+      "10 दिन",
+      "12 दिन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "72 किमी/घंटा की गति से चलने वाली एक ट्रेन 25 सेकंड में दूरी तय करती है। तय की गई दूरी है:",
+    "options": [
+      "400 मीटर",
+      "450 मीटर",
+      "500 मीटर",
+      "550 मीटर"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "₹6,000 पर 3 वर्षों के लिए 8% प्रति वर्ष की दर से साधारण ब्याज है:",
+    "options": [
+      "₹1,240",
+      "₹1,360",
+      "₹1,440",
+      "₹1,520"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "यदि \\(3x+7=28\\), तो \\(x\\) बराबर है:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "एक आयत का क्षेत्रफल 360 सेमी² है और इसकी लंबाई 20 सेमी है। इसकी चौड़ाई है:",
+    "options": [
+      "16 सेमी",
+      "18 सेमी",
+      "20 सेमी",
+      "22 सेमी"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "एक दुकानदार ₹2,000 अंकित मूल्य वाली वस्तु पर 15% की छूट देता है। विक्रय मूल्य है:",
+    "options": [
+      "₹1,650",
+      "₹1,700",
+      "₹1,750",
+      "₹1,800"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "सरल कीजिए: Which is the smallest planet in the Solar System?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Neptune"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+    "options": [
+      "जवाहरलाल नेहरू",
+      "सरदार पटेल",
+      "बी. आर. अम्बेडकर",
+      "राजेंद्र प्रसाद"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 43,
+    "question": "संयुक्त राष्ट्र का मुख्यालय स्थित है:",
+    "options": [
+      "जिनेवा",
+      "पेरिस",
+      "न्यूयॉर्क",
+      "लंदन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 44,
+    "question": "सरल कीजिए: Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Mercury",
+      "Copper",
+      "Aluminium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "भारत का कौन सा राज्य काजीरंगा राष्ट्रीय उद्यान के लिए प्रसिद्ध है?",
+    "options": [
+      "असम",
+      "ओडिशा",
+      "केरल",
+      "पश्चिम बंगाल"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "स्वतंत्र भारत के पहले राष्ट्रपति थे:",
+    "options": [
+      "एस. राधाकृष्णन",
+      "राजेंद्र प्रसाद",
+      "जाकिर हुसैन",
+      "वी. वी. गिरी"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "भारत की वायु रक्षा के लिए मुख्य रूप से कौन सी सेना जिम्मेदार है?",
+    "options": [
+      "भारतीय सेना",
+      "भारतीय नौसेना",
+      "भारतीय वायु सेना",
+      "तटरक्षक बल"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "भूकंपों के अध्ययन को कहा जाता है:",
+    "options": [
+      "पारिस्थितिकी",
+      "भूकंप विज्ञान",
+      "मौसम विज्ञान",
+      "भूविज्ञान"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "वायुमंडलीय दबाव मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "options": [
+      "हाइग्रोमीटर",
+      "बैरोमीटर",
+      "एनीमोमीटर",
+      "थर्मामीटर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "[करंट अफेयर्स] पिच ब्लैक 2026 अभ्यास, जिसमें भारतीय वायु सेना ने राफेल विमान के साथ भाग लिया था, आयोजित किया गया था:",
+    "options": [
+      "मलेशिया",
+      "ऑस्ट्रेलिया",
+      "फ्रांस",
+      "सिंगापुर"
+    ],
+    "correctAnswer": 1
+  }
+]

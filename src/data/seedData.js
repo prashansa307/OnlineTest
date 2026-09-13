@@ -18,6 +18,14 @@ import allTest3 from './all/test3.json';
 import allTest4 from './all/test4.json';
 import allTest5 from './all/test5.json';
 import allTest6 from './all/test6.json';
+import allTest7 from './all/test7.json';
+import allTest8 from './all/test8.json';
+import allTest9 from './all/test9.json';
+import allTest10 from './all/test10.json';
+import allTest11 from './all/test11.json';
+import allTest12 from './all/test12.json';
+import allTest13 from './all/test13.json';
+import allTest14 from './all/test14.json';
 
 function createTest(categoryId, id, title, description, durationMinutes, questions) {
   return {
@@ -113,6 +121,14 @@ export const seedDb = {
     createTest('all', 'test4', 'Test 4', 'All-in-one practice set 4', 50, allTest4),
     createTest('all', 'test5', 'Test 5', 'All-in-one practice set 5', 50, allTest5),
     createTest('all', 'test6', 'Test 6', 'All-in-one practice set 6', 50, allTest6),
+    createTest('all', 'test7', 'Test 7', 'All-in-one practice set 7', 50, allTest7),
+    createTest('all', 'test8', 'Test 8', 'All-in-one practice set 8', 50, allTest8),
+    createTest('all', 'test9', 'Test 9', 'All-in-one practice set 9', 50, allTest9),
+    createTest('all', 'test10', 'Test 10', 'All-in-one practice set 10', 50, allTest10),
+    createTest('all', 'test11', 'Test 11', 'All-in-one practice set 11', 50, allTest11),
+    createTest('all', 'test12', 'Test 12', 'All-in-one practice set 12', 50, allTest12),
+    createTest('all', 'test13', 'Test 13', 'All-in-one practice set 13', 50, allTest13),
+    createTest('all', 'test14', 'Test 14', 'All-in-one practice set 14', 50, allTest14),
   ],
   questions: [
     ...normalizeQuestions('english', 'test1', englishTest1),
@@ -135,6 +151,14 @@ export const seedDb = {
     ...normalizeQuestions('all', 'test4', allTest4),
     ...normalizeQuestions('all', 'test5', allTest5),
     ...normalizeQuestions('all', 'test6', allTest6),
+    ...normalizeQuestions('all', 'test7', allTest7),
+    ...normalizeQuestions('all', 'test8', allTest8),
+    ...normalizeQuestions('all', 'test9', allTest9),
+    ...normalizeQuestions('all', 'test10', allTest10),
+    ...normalizeQuestions('all', 'test11', allTest11),
+    ...normalizeQuestions('all', 'test12', allTest12),
+    ...normalizeQuestions('all', 'test13', allTest13),
+    ...normalizeQuestions('all', 'test14', allTest14),
   ],
   attempts: [],
   settings: {

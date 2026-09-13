@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "No sooner ___ the train arrived than the passengers rushed towards the platform.",
+    "options": [
+      "did",
+      "had",
+      "has",
+      "was"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "The officer insisted ___ checking all the documents personally.",
+    "options": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\n“Each of the candidates have submitted their application form.”",
+    "options": [
+      "Each of the candidates",
+      "have submitted",
+      "their application form",
+      "No error"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Change into indirect speech:\nHe said to me, “Do you know the answer?”",
+    "options": [
+      "He asked me if I knew the answer.",
+      "He asked me that I knew the answer.",
+      "He told me if I know the answer.",
+      "He said whether I know the answer."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Change into passive voice:\n“People speak English all over the world.”",
+    "options": [
+      "English was spoken all over the world.",
+      "English is spoken all over the world.",
+      "English has spoken all over the world.",
+      "English speaks all over the world."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "If he ___ harder, he would have secured the first position.",
+    "options": [
+      "studies",
+      "studied",
+      "had studied",
+      "has studied"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "The soldiers were deprived ___ their basic facilities.",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "by"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the synonym of “Eloquent”.",
+    "options": [
+      "Fluent",
+      "Silent",
+      "Confused",
+      "Careless"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Rigid”.",
+    "options": [
+      "Strict",
+      "Firm",
+      "Flexible",
+      "Harsh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Consciencious",
+      "Conscientious",
+      "Conscentious",
+      "Conscientous"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "He is ___ MLA from Rajasthan.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "“To call it a day” means:",
+    "options": [
+      "To start working",
+      "To postpone a meeting",
+      "To stop working for the day",
+      "To waste time"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct preposition:\n“She has great influence ___ her younger brother.”",
+    "options": [
+      "on",
+      "at",
+      "for",
+      "with"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "Choose the grammatically correct sentence.",
+    "options": [
+      "The news are very encouraging.",
+      "The news is very encouraging.",
+      "The news were very encouraging.",
+      "The news have very encouraging."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One who can use both hands equally well is called:",
+    "options": [
+      "Ambivalent",
+      "Ambidextrous",
+      "Amphibious",
+      "Ambitious"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "passage": "Discipline is often misunderstood as a restriction on freedom. In reality, it provides the structure within which freedom can be exercised responsibly. A disciplined person does not merely obey rules; he understands the purpose behind them and develops the ability to control his impulses. In demanding professions, discipline becomes especially important because individual actions can affect the safety and performance of an entire team.",
+    "question": "According to the passage, discipline primarily provides:",
+    "options": [
+      "Punishment",
+      "Structure for responsible freedom",
+      "Complete restriction",
+      "Competition"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Discipline is often misunderstood as a restriction on freedom. In reality, it provides the structure within which freedom can be exercised responsibly. A disciplined person does not merely obey rules; he understands the purpose behind them and develops the ability to control his impulses. In demanding professions, discipline becomes especially important because individual actions can affect the safety and performance of an entire team.",
+    "question": "A disciplined person:",
+    "options": [
+      "blindly follows every rule",
+      "avoids responsibility",
+      "understands the purpose of rules",
+      "never makes decisions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "passage": "Discipline is often misunderstood as a restriction on freedom. In reality, it provides the structure within which freedom can be exercised responsibly. A disciplined person does not merely obey rules; he understands the purpose behind them and develops the ability to control his impulses. In demanding professions, discipline becomes especially important because individual actions can affect the safety and performance of an entire team.",
+    "question": "Discipline helps a person control:",
+    "options": [
+      "knowledge",
+      "circumstances",
+      "impulses",
+      "opportunities"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "passage": "Discipline is often misunderstood as a restriction on freedom. In reality, it provides the structure within which freedom can be exercised responsibly. A disciplined person does not merely obey rules; he understands the purpose behind them and develops the ability to control his impulses. In demanding professions, discipline becomes especially important because individual actions can affect the safety and performance of an entire team.",
+    "question": "Discipline is particularly important in demanding professions because:",
+    "options": [
+      "rules are unnecessary",
+      "individual actions may affect the whole team",
+      "freedom is completely prohibited",
+      "people work independently"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "passage": "Discipline is often misunderstood as a restriction on freedom. In reality, it provides the structure within which freedom can be exercised responsibly. A disciplined person does not merely obey rules; he understands the purpose behind them and develops the ability to control his impulses. In demanding professions, discipline becomes especially important because individual actions can affect the safety and performance of an entire team.",
+    "question": "The most suitable title for the passage is:",
+    "options": [
+      "Freedom Without Rules",
+      "Discipline and Responsible Freedom",
+      "Problems of Teamwork",
+      "Importance of Competition"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "अगला नंबर खोजें:\n3, 8, 18, 38, 78, ?",
+    "options": [
+      "156",
+      "158",
+      "160",
+      "162"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "लुप्त पद ज्ञात कीजिए:\nएबी, डीईएफ, हिज्क, एलएमएनओपी, ?",
+    "options": [
+      "क्यूआरएसटीयूवी",
+      "क्यूआरएसटीयू",
+      "पीक्यूआरएसटी",
+      "आरएसटीयूवीडब्ल्यू"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "यदि MOBILE को OMIBEL के रूप में कोडित किया गया है, तो उसी पैटर्न का उपयोग करके SYSTEM को कैसे कोडित किया जाएगा?",
+    "options": [
+      "वाईएसएसटीईएम",
+      "वाईएसटीएसएमई",
+      "सिस्टम",
+      "वाईएसएसटीएमई"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "एक आदमी 8 किमी उत्तर की ओर चलता है, दाएं मुड़ता है और 6 किमी चलता है, फिर दाएं मुड़ता है और 8 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+    "options": [
+      "4 किमी",
+      "6 किमी",
+      "8 किमी",
+      "14 किमी"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "एक आदमी की ओर इशारा करते हुए, रवि ने कहा, \"उसकी माँ मेरी माँ की इकलौती बेटी है।\" वह व्यक्ति रवि से किस प्रकार संबंधित है?",
+    "options": [
+      "भाई",
+      "बेटा",
+      "भतीजा",
+      "चचेरा भाई"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "45 छात्रों की एक कक्षा में, रोहन शीर्ष से 12वें स्थान पर है। नीचे से उसकी रैंक क्या है?",
+    "options": [
+      "32वां",
+      "33वां",
+      "34वां",
+      "35वां"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "विषम चुनें।",
+    "options": [
+      "27",
+      "64",
+      "126",
+      "216"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "किताब : लेखक :: पेंटिंग : ?",
+    "options": [
+      "मूर्तिकार",
+      "कलाकार",
+      "कवि",
+      "संपादक"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "यदि 1 जनवरी को सोमवार है, तो गैर-लीप वर्ष में 1 मार्च को कौन सा दिन होगा?",
+    "options": [
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "सादृश्य पूरा करें:\n7 : 350 :: 9 : ?",
+    "options": [
+      "450",
+      "721",
+      "812",
+      "904"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "एक संख्या में 20% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। शुद्ध परिवर्तन क्या है?",
+    "options": [
+      "0%",
+      "2% की कमी",
+      "4% की कमी",
+      "4% की वृद्धि"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "दो संख्याएँ 5:8 के अनुपात में हैं और उनका योग 169 है। बड़ी संख्या है:",
+    "options": [
+      "96",
+      "104",
+      "112",
+      "120"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "एक दुकानदार एक वस्तु पर उसके लागत मूल्य से 40% अधिक मूल्य अंकित करता है और 10% की छूट देता है। उसका लाभ प्रतिशत है:",
+    "options": [
+      "24%",
+      "26%",
+      "28%",
+      "30%"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "सरल कीजिए: $$ \\frac{5}{6}+\\frac{7}{12}-\\frac{3}{8} $$",
+    "options": [
+      "23/24",
+      "25/24",
+      "29/24",
+      "31/24"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "A एक काम को 18 दिन में और B 24 दिन में पूरा कर सकता है। एक साथ काम करते हुए, वे इसे इसमें पूरा करेंगे:",
+    "options": [
+      "9 1/7 दिन",
+      "10 2/7 दिन",
+      "10 1/7 दिन",
+      "11 1/7 दिन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "180 मीटर लंबी एक ट्रेन एक खंबे को 9 सेकंड में पार करती है। इसकी गति है:",
+    "options": [
+      "60 किमी/घंटा",
+      "72 किमी/घंटा",
+      "80 किमी/घंटा",
+      "90 किमी/घंटा"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "₹8,000 पर 2 वर्षों के लिए 10% प्रति वर्ष की दर से चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+    "options": [
+      "₹1,600",
+      "₹1,680",
+      "₹1,720",
+      "₹1,760"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "यदि \\(x+\\frac1x=5\\), तो \\(x^2+\\frac1{x^2}\\) बराबर है:",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "एक आयत का परिमाप 94 सेमी है। यदि इसकी लंबाई इसकी चौड़ाई से 7 सेमी अधिक है, तो इसका क्षेत्रफल है:",
+    "options": [
+      "520 सेमी²",
+      "540 सेमी²",
+      "560 सेमी²",
+      "580 सेमी²"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "एक नाव धारा के अनुकूल 30 किमी की दूरी 2 घंटे में तय करती है और समान दूरी धारा के प्रतिकूल 3 घंटे में तय करती है। शांत पानी में नाव की गति है:",
+    "options": [
+      "10 किमी/घंटा",
+      "12 किमी/घंटा",
+      "12.5 किमी/घंटा",
+      "15 किमी/घंटा"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "question": "कौन सा संवैधानिक अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
+    "options": [
+      "अनुच्छेद 19",
+      "अनुच्छेद 21",
+      "अनुच्छेद 32",
+      "अनुच्छेद 44"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "चूक का सिद्धांत मुख्य रूप से संबंधित है:",
+    "options": [
+      "लॉर्ड कर्जन",
+      "लॉर्ड डलहौजी",
+      "लॉर्ड वेलेस्ले",
+      "लॉर्ड रिपन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "कौन सी भारतीय नदी को बिहार का शोक कहा जाता है?",
+    "options": [
+      "गंडक",
+      "कोसी",
+      "सोन",
+      "दामोदर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "पृथ्वी के वायुमंडल में कौन सी गैस सर्वाधिक प्रचुर मात्रा में है?",
+    "options": [
+      "ऑक्सीजन",
+      "कार्बन डाइऑक्साइड",
+      "नाइट्रोजन",
+      "हाइड्रोजन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "question": "अंतर्राष्ट्रीय मुद्रा कोष का मुख्यालय स्थित है:",
+    "options": [
+      "जिनेवा",
+      "न्यूयॉर्क",
+      "वाशिंगटन, डी.सी.",
+      "पेरिस"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "वायुमंडलीय दबाव मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "options": [
+      "हाइग्रोमीटर",
+      "बैरोमीटर",
+      "एनीमोमीटर",
+      "लैक्टोमीटर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "व्यक्तिगत ओलंपिक स्वर्ण पदक जीतने वाले पहले भारतीय थे:",
+    "options": [
+      "नीरज चोपड़ा",
+      "अभिनव बिंद्रा",
+      "सुशील कुमार",
+      "राज्यवर्धन राठौड़"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस है?",
+    "options": [
+      "नाइट्रोजन",
+      "ऑक्सीजन",
+      "कार्बन डाइऑक्साइड",
+      "आर्गन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "टेहरी बांध किस नदी पर बनाया गया है?",
+    "options": [
+      "भागीरथी",
+      "यमुना",
+      "अलकनंदा",
+      "नर्मदा"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "- करेंट अफेयर्स\nअगस्त 2026 में भारत ने अग्नि-4 का सफल उड़ान परीक्षण किया था. यह किस स्थान से आयोजित किया गया था?",
+    "options": [
+      "पोखरण, राजस्थान",
+      "डॉ एपीजे अब्दुल कलाम द्वीप, ओडिशा",
+      "श्रीहरिकोटा, आंध्र प्रदेश",
+      "चांदीपुर, ओडिशा"
+    ],
+    "correctAnswer": 3
+  }
+]

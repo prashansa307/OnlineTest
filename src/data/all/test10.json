@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Scarcely had the match begun ___ it started raining heavily.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "while"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "The officer is responsible ___ maintaining discipline in the unit.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\n“Neither the officers nor the commander were present at the meeting.”",
+    "options": [
+      "Neither the officers",
+      "nor the commander",
+      "were present",
+      "No error"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Change into indirect speech:\nShe said to him, “Please help me with this work.”",
+    "options": [
+      "She requested him to help her with that work.",
+      "She requested him that help me with this work.",
+      "She told him please help her with this work.",
+      "She said him to help her with that work."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Change into passive voice:\n“Who broke the window?”",
+    "options": [
+      "By whom was the window broken?",
+      "By whom the window was broken?",
+      "Who was the window broken by?",
+      "By who was the window broken?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "By this time next year, he ___ his training.",
+    "options": [
+      "completes",
+      "completed",
+      "will have completed",
+      "has completed"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "The new policy is conducive ___ improving operational efficiency.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "at"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the synonym of “Obsolete”.",
+    "options": [
+      "Modern",
+      "Outdated",
+      "Useful",
+      "Essential"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Benevolent”.",
+    "options": [
+      "Generous",
+      "Kind",
+      "Malevolent",
+      "Helpful"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Maintenance",
+      "Maintainance",
+      "Maintanence",
+      "Maintenence"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "He is ___ heir to a large estate.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "“A blessing in disguise” means:",
+    "options": [
+      "A hidden enemy",
+      "Something apparently bad that turns out beneficial",
+      "An unexpected punishment",
+      "A false promise"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He prefers tea than coffee.",
+      "He prefers tea over coffee than milk.",
+      "He prefers tea to coffee.",
+      "He prefers tea from coffee."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "The quality of these products ___ considerably improved.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "One who speaks many languages is called:",
+    "options": [
+      "Linguist",
+      "Polyglot",
+      "Orator",
+      "Translator"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "passage": "Leadership in a military environment involves more than issuing commands. An effective leader must understand the capabilities and limitations of the team, communicate clearly and remain composed under pressure. Trust is developed when personnel believe that their leader is competent, fair and willing to accept responsibility for decisions. Thus, leadership is closely connected with both discipline and mutual confidence.",
+    "question": "Effective leadership involves:",
+    "options": [
+      "only issuing orders",
+      "understanding the team and communicating clearly",
+      "avoiding responsibility",
+      "eliminating discipline"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Leadership in a military environment involves more than issuing commands. An effective leader must understand the capabilities and limitations of the team, communicate clearly and remain composed under pressure. Trust is developed when personnel believe that their leader is competent, fair and willing to accept responsibility for decisions. Thus, leadership is closely connected with both discipline and mutual confidence.",
+    "question": "Trust develops when a leader is:",
+    "options": [
+      "strict and unpredictable",
+      "competent and fair",
+      "silent and distant",
+      "aggressive"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "passage": "Leadership in a military environment involves more than issuing commands. An effective leader must understand the capabilities and limitations of the team, communicate clearly and remain composed under pressure. Trust is developed when personnel believe that their leader is competent, fair and willing to accept responsibility for decisions. Thus, leadership is closely connected with both discipline and mutual confidence.",
+    "question": "An effective leader should remain composed:",
+    "options": [
+      "only during training",
+      "under pressure",
+      "when alone",
+      "after making mistakes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "passage": "Leadership in a military environment involves more than issuing commands. An effective leader must understand the capabilities and limitations of the team, communicate clearly and remain composed under pressure. Trust is developed when personnel believe that their leader is competent, fair and willing to accept responsibility for decisions. Thus, leadership is closely connected with both discipline and mutual confidence.",
+    "question": "Leadership is closely connected with:",
+    "options": [
+      "wealth and authority",
+      "discipline and mutual confidence",
+      "competition and punishment",
+      "rank and age"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "passage": "Leadership in a military environment involves more than issuing commands. An effective leader must understand the capabilities and limitations of the team, communicate clearly and remain composed under pressure. Trust is developed when personnel believe that their leader is competent, fair and willing to accept responsibility for decisions. Thus, leadership is closely connected with both discipline and mutual confidence.",
+    "question": "The best title for the passage is:",
+    "options": [
+      "Military Equipment",
+      "Effective Military Leadership",
+      "Rules of Communication",
+      "Problems of Discipline"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "अगला नंबर खोजें:\n6, 13, 27, 55, 111, ?",
+    "options": [
+      "221",
+      "222",
+      "223",
+      "225"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "अगला पत्र खोजें:\nसी, जी, एल, आर, वाई, ?",
+    "options": [
+      "ई",
+      "एफ",
+      "जी",
+      "एच"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "यदि CLOUD को DMPVE के रूप में कोडित किया गया है, तो STORM को कैसे कोडित किया जाएगा?",
+    "options": [
+      "TUPSN",
+      "TUPRN",
+      "TUPSM",
+      "SUQTN"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "एक व्यक्ति 15 मीटर उत्तर, फिर 8 मीटर पूर्व, फिर 15 मीटर दक्षिण और अंत में 3 मीटर पश्चिम चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+    "options": [
+      "3 मीटर",
+      "5 मीटर",
+      "8 मीटर",
+      "11 मीटर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "एक महिला की ओर इशारा करते हुए, मोहन ने कहा, \"उसका भाई मेरे पिता का इकलौता पुत्र है।\" वह महिला मोहन से किस प्रकार संबंधित है?",
+    "options": [
+      "बहन",
+      "मां",
+      "बेटी",
+      "चाची"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "60 छात्रों की एक कक्षा में, सीमा शीर्ष से 21वें स्थान पर है। नीचे से उसकी रैंक क्या है?",
+    "options": [
+      "38वां",
+      "39वां",
+      "40वां",
+      "41वां"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "बेजोड़ युग्म ज्ञात कीजिए।",
+    "options": [
+      "12: 144",
+      "15: 225",
+      "18: 324",
+      "21: 431"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 28,
+    "question": "डॉक्टर : अस्पताल :: जज : ?",
+    "options": [
+      "कोर्ट",
+      "स्कूल",
+      "संसद",
+      "कार्यालय"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "यदि गैर-लीप वर्ष की 1 जनवरी को शुक्रवार है, तो 31 दिसंबर को कौन सा दिन होगा?",
+    "options": [
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "लुप्त संख्या ज्ञात करें:\n2 → 6 → 18\n3 → 12 → 48\n4 → 20 → ?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "120"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "एक संख्या में पहले 25% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। शुद्ध परिवर्तन क्या है?",
+    "options": [
+      "5% की वृद्धि",
+      "कोई परिवर्तन नहीं",
+      "5% की कमी",
+      "10% की कमी"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "₹7,500 को 4:6:5 के अनुपात में बांटा गया है। सबसे बड़ा हिस्सा क्या है?",
+    "options": [
+      "₹2,000",
+      "₹2,500",
+      "₹3,000",
+      "₹3,500"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "एक दुकानदार एक वस्तु पर उसके लागत मूल्य से 60% अधिक मूल्य अंकित करता है और 25% की छूट देता है। उसका लाभ प्रतिशत है:",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "यदि\n$$ 2x+3y=17 $$\nऔर\n$$ x+y=7, $$\nतो \\(x\\) है:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "A एक काम को 20 दिन में और B 30 दिन में पूरा कर सकता है। वे A से शुरू करके एक-एक दिन बारी-बारी से काम करते हैं। काम कितने दिनों में पूरा होगा?",
+    "options": [
+      "23 दिन",
+      "24 दिन",
+      "25 दिन",
+      "26 दिन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "एक व्यक्ति 180 किमी की यात्रा का आधा भाग 45 किमी/घंटा की गति से और शेष आधा 60 किमी/घंटा की गति से तय करता है। उसकी औसत गति क्या है?",
+    "options": [
+      "50 किमी/घंटा",
+      "51.43 किमी/घंटा",
+      "52.5 किमी/घंटा",
+      "55 किमी/घंटा"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "₹10,000 पर 2 वर्ष के लिए 12% प्रति वर्ष की दर से साधारण ब्याज ज्ञात कीजिए।",
+    "options": [
+      "₹2,200",
+      "₹2,400",
+      "₹2,440",
+      "₹2,500"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "यदि \\(a+b=12\\) और \\(ab=35\\), तो \\(a^2+b^2\\) खोजें।",
+    "options": [
+      "64",
+      "70",
+      "74",
+      "84"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "एक समबाहु त्रिभुज की भुजा 14 सेमी है। इसका क्षेत्रफल है:",
+    "options": [
+      "\\(49\\sqrt3\\) सेमी²",
+      "\\(98\\sqrt3\\) सेमी²",
+      "\\(147\\sqrt3\\) सेमी²",
+      "\\(196\\sqrt3\\) सेमी²"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "पाइप A एक टैंक को 12 घंटे में भरता है, पाइप B 18 घंटे में, जबकि पाइप C इसे 36 घंटे में खाली करता है। यदि तीनों को एक साथ खोला जाए, तो टैंक भर जाएगा:",
+    "options": [
+      "8 घंटे",
+      "9 घंटे",
+      "10 घंटे",
+      "12 घंटे"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "भारतीय संविधान के किस भाग में राज्य के नीति निदेशक सिद्धांत निहित हैं?",
+    "options": [
+      "भाग II",
+      "भाग III",
+      "भाग IV",
+      "भाग V"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "भारत छोड़ो आंदोलन का प्रस्ताव अखिल भारतीय कांग्रेस कमेटी द्वारा पारित किया गया था:",
+    "options": [
+      "दिल्ली",
+      "बॉम्बे",
+      "लखनऊ",
+      "इलाहाबाद"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "रक्त का थक्का जमने में कौन सा विटामिन महत्वपूर्ण भूमिका निभाता है?",
+    "options": [
+      "विटामिन ए",
+      "विटामिन बी12",
+      "विटामिन सी",
+      "विटामिन के"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 44,
+    "question": "विद्युत चालक का प्रतिरोध मापा जाता है:",
+    "options": [
+      "वाट",
+      "ओम",
+      "वोल्ट",
+      "जूल"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "नीली क्रांति मुख्य रूप से जुड़ी हुई है:",
+    "options": [
+      "दुग्ध उत्पादन",
+      "मछली उत्पादन",
+      "तेल उत्पादन",
+      "कपास उत्पादन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "कौन सी धातु कमरे के तापमान पर तरल होती है?",
+    "options": [
+      "सोडियम",
+      "पारा",
+      "तांबा",
+      "जिंक"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रपति के महाभियोग से संबंधित है?",
+    "options": [
+      "अनुच्छेद 52",
+      "अनुच्छेद 56",
+      "अनुच्छेद 61",
+      "अनुच्छेद 72"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "नर्मदा नदी का उद्गम स्थल है:",
+    "options": [
+      "महाबलेश्वर",
+      "अमरकंटक",
+      "त्र्यंबकेश्वर",
+      "मानसरोवर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "निम्नलिखित में से कौन सा जोड़ा सही सुमेलित है?",
+    "options": [
+      "काजीरंगा - गुजरात",
+      "गिर - असम",
+      "साइलेंट वैली - केरल",
+      "रणथंभौर - मध्य प्रदेश"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "- करेंट अफेयर्स\nवित्त वर्ष 2025-26 में भारत ने लगभग कितना रक्षा उत्पादन दर्ज किया?",
+    "options": [
+      "₹1.25 लाख करोड़",
+      "₹1.50 लाख करोड़",
+      "₹1.78 लाख करोड़",
+      "₹2.10 लाख करोड़"
+    ],
+    "correctAnswer": 2
+  }
+]

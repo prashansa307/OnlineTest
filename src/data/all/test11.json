@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "No sooner the bell rang than the students left.",
+      "No sooner did the bell ring than the students left.",
+      "No sooner had the bell rang when the students left.",
+      "No sooner did the bell rang than the students left."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "The committee arrived ___ a unanimous decision after prolonged discussion.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "for"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\n“Neither of the two explanations seem convincing to the investigators.”",
+    "options": [
+      "Neither of the two",
+      "explanations seem",
+      "convincing to",
+      "No error"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Choose the correctly reported speech:\nThe teacher said to Ravi, “Why have you not completed your assignment?”",
+    "options": [
+      "The teacher asked Ravi why he had not completed his assignment.",
+      "The teacher asked Ravi why had he not completed his assignment.",
+      "The teacher told Ravi why he has not completed his assignment.",
+      "The teacher asked Ravi why he did not completed his assignment."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive form:\n“Someone has tampered with the official records.”",
+    "options": [
+      "The official records have been tampered with.",
+      "The official records had been tampered with.",
+      "The official records are tampered with.",
+      "The official records have tampered with."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Unless you ___ the instructions carefully, you may make a serious error.",
+    "options": [
+      "followed",
+      "follow",
+      "had followed",
+      "would follow"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "The witness was reluctant ___ disclose the information.",
+    "options": [
+      "for",
+      "in",
+      "to",
+      "with"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Choose the word nearest in meaning to “Ubiquitous.”",
+    "options": [
+      "Rare",
+      "Present everywhere",
+      "Temporary",
+      "Invisible"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Meticulous.”",
+    "options": [
+      "Careless",
+      "Precise",
+      "Thorough",
+      "Exact"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Entrepreneur",
+      "Entreprenuer",
+      "Enterpreneur",
+      "Entrepreneaur"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "He is ___ one-eyed veteran of the regiment.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "“To read between the lines” means:",
+    "options": [
+      "To read very quickly",
+      "To understand the hidden meaning",
+      "To skip difficult portions",
+      "To read aloud"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She is capable to solve the problem.",
+      "She is capable of solving the problem.",
+      "She is capable for solving the problem.",
+      "She is capable in solve the problem."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "The number of vehicles operating on this route ___ increased sharply.",
+    "options": [
+      "have",
+      "are",
+      "has",
+      "were"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "A person who cannot be easily deceived is described as:",
+    "options": [
+      "Gullible",
+      "Credulous",
+      "Astute",
+      "Naive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "passage": "Decision-making in demanding environments requires more than access to information. Information may be incomplete, contradictory or delayed. A competent decision-maker therefore distinguishes essential facts from distractions, evaluates the consequences of available alternatives and acts within the time available. The ability to revise a decision when reliable new evidence emerges is not necessarily a weakness; it can be a sign of sound judgement.",
+    "question": "The passage primarily discusses:",
+    "options": [
+      "Information technology",
+      "Effective decision-making",
+      "Military history",
+      "Communication barriers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Decision-making in demanding environments requires more than access to information. Information may be incomplete, contradictory or delayed. A competent decision-maker therefore distinguishes essential facts from distractions, evaluates the consequences of available alternatives and acts within the time available. The ability to revise a decision when reliable new evidence emerges is not necessarily a weakness; it can be a sign of sound judgement.",
+    "question": "Information in demanding environments may be:",
+    "options": [
+      "always complete",
+      "always reliable",
+      "incomplete or contradictory",
+      "unnecessary"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "passage": "Decision-making in demanding environments requires more than access to information. Information may be incomplete, contradictory or delayed. A competent decision-maker therefore distinguishes essential facts from distractions, evaluates the consequences of available alternatives and acts within the time available. The ability to revise a decision when reliable new evidence emerges is not necessarily a weakness; it can be a sign of sound judgement.",
+    "question": "A competent decision-maker should distinguish:",
+    "options": [
+      "facts from distractions",
+      "speed from accuracy",
+      "people from machines",
+      "orders from discipline"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "passage": "Decision-making in demanding environments requires more than access to information. Information may be incomplete, contradictory or delayed. A competent decision-maker therefore distinguishes essential facts from distractions, evaluates the consequences of available alternatives and acts within the time available. The ability to revise a decision when reliable new evidence emerges is not necessarily a weakness; it can be a sign of sound judgement.",
+    "question": "Revising a decision after reliable new evidence can indicate:",
+    "options": [
+      "weakness",
+      "confusion",
+      "sound judgement",
+      "lack of confidence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "passage": "Decision-making in demanding environments requires more than access to information. Information may be incomplete, contradictory or delayed. A competent decision-maker therefore distinguishes essential facts from distractions, evaluates the consequences of available alternatives and acts within the time available. The ability to revise a decision when reliable new evidence emerges is not necessarily a weakness; it can be a sign of sound judgement.",
+    "question": "According to the passage, decisions should be made:",
+    "options": [
+      "without considering consequences",
+      "within the available time",
+      "only after all uncertainty disappears",
+      "solely on instinct"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "लुप्त पद ज्ञात कीजिए:\n11, 24, 50, 102, 206, ?",
+    "options": [
+      "410",
+      "412",
+      "414",
+      "416"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "अगली जोड़ी खोजें:\nएज़, बीवाई, सीएक्स, डीडब्ल्यू, ?",
+    "options": [
+      "ईयू",
+      "ईवी",
+      "फू",
+      "पूर्व"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "एक निश्चित कोड में, PLANE को QKBMF के रूप में लिखा जाता है। उस कोड में TRAIN कैसे लिखा जाता है?",
+    "options": [
+      "यूक्यूबीजेओ",
+      "यूक्यूसीएमओ",
+      "यूक्यूबीएचओ",
+      "यूएससीकेओ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "एक व्यक्ति पश्चिम की ओर मुख करना शुरू करता है। वह 135° दक्षिणावर्त दिशा में, फिर 90° वामावर्त दिशा में और अंत में 45° दक्षिणावर्त दिशा में घूमता है। अब उसका मुख किस दिशा की ओर है?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "उत्तर-पश्चिम"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "P, Q की बेटी है। R, Q का भाई है। S, R की माँ है। T, S का पिता है। T, P से किस प्रकार संबंधित है?",
+    "options": [
+      "पिता",
+      "नाना",
+      "परदादा",
+      "मातृ परदादा"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 26,
+    "question": "उम्मीदवारों की एक पंक्ति में, अनिल बाएं से 19वें स्थान पर हैं। अनिल के बाद 24 उम्मीदवार हैं. यदि राहुल के सामने 11 उम्मीदवार हैं और राहुल अनिल के दायीं ओर है, तो दायीं ओर से राहुल की स्थिति क्या है?",
+    "options": [
+      "32वीं",
+      "12वीं",
+      "23वीं",
+      "14वीं"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "विषम चुनें।",
+    "options": [
+      "4, 18",
+      "6, 38",
+      "8, 66",
+      "10, 98"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 28,
+    "question": "यदि EDUCATION शब्द में सभी स्वरों को वर्णानुक्रम में और फिर सभी व्यंजनों को वर्णानुक्रम में व्यवस्थित किया जाए, तो बाएं से तीसरा अक्षर कौन सा होगा?",
+    "options": [
+      "ए",
+      "सी",
+      "ई",
+      "मैं"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 29,
+    "question": "कथन:\nसभी पायलट प्रशिक्षित हैं.\nकुछ प्रशिक्षित व्यक्ति इंजीनियर हैं।\nनिष्कर्ष:\nI. कुछ पायलट इंजीनियर हैं।\nद्वितीय. कुछ इंजीनियरों को प्रशिक्षित किया जाता है।",
+    "options": [
+      "केवल I अनुसरण करता है",
+      "केवल II अनुसरण करता है",
+      "दोनों अनुसरण करते हैं",
+      "कोई भी अनुसरण नहीं करता है"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "लुप्त संख्या ज्ञात करें:\n2 5 29\n3 7 58\n4 9 ?",
+    "options": [
+      "91",
+      "97",
+      "99",
+      "101"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "एक संख्या को 296 से विभाजित करने पर 57 शेष बचता है। उसी संख्या को 37 से विभाजित करने पर क्या शेषफल प्राप्त होगा?",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "31"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "11 संख्याओं का औसत 48 है। यदि पहली छह संख्याओं का औसत 42 है और अंतिम छह संख्याओं का औसत 55 है, तो छठी संख्या ज्ञात करें।",
+    "options": [
+      "36",
+      "42",
+      "48",
+      "54"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 33,
+    "question": "एक व्यापारी एक वस्तु को 12% हानि पर बेचता है। यदि उसने इसे ₹540 अधिक में बेचा होता, तो उसे 6% का लाभ होता। लागत मूल्य क्या है?",
+    "options": [
+      "₹2,500",
+      "₹3,000",
+      "₹3,500",
+      "₹4,000"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "यदि\n$$ x:y=4:7 $$\nऔर\n$$ y:z=14:15, $$\nतब \\(x:y:z\\) बराबर होता है:",
+    "options": [
+      "4:7:15",
+      "8:14:15",
+      "8:7:15",
+      "4:14:15"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "एक धनराशि को A, B और C के बीच 5:7:8 के अनुपात में विभाजित किया जाता है। यदि C को A से ₹1,260 अधिक मिलते हैं, तो कुल राशि क्या है?",
+    "options": [
+      "₹6,300",
+      "₹7,000",
+      "₹8,400",
+      "₹9,000"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "एक आदमी धारा के अनुकूल 48 किमी की दूरी 4 घंटे में तय कर सकता है और उतनी ही दूरी धारा के प्रतिकूल 6 घंटे में तय कर सकता है। शांत पानी में 42 किमी की दूरी तय करने में उसे कितना समय लगेगा?",
+    "options": [
+      "4 घंटे 12 मिनट",
+      "4 घंटे 30 मिनट",
+      "5 घंटे",
+      "5 घंटे 15 मिनट"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "यदि एक आयत का विकर्ण 25 सेमी है और इसकी लंबाई इसकी चौड़ाई से 7 सेमी अधिक है, तो इसका क्षेत्रफल है:",
+    "options": [
+      "168 सेमी²",
+      "288 सेमी²",
+      "216 सेमी²",
+      "240 सेमी²"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "वह न्यूनतम संख्या जिसे 12, 15 तथा 18 से विभाजित करने पर प्रत्येक स्थिति में 5 शेष बचता है वह है:",
+    "options": [
+      "175",
+      "180",
+      "185",
+      "365"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "यदि\nx−2​/x+3=3/5​,\nतो x बराबर है:",
+    "options": [
+      "9.5",
+      "7.5",
+      "8.2",
+      "9.1"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "सरल कीजिए: A cylinder has radius 7 cm and height 10 cm. Using \\(\\pi=\\frac{22}{7}\\), its curved surface area is:",
+    "options": [
+      "420 cm²",
+      "440 cm²",
+      "460 cm²",
+      "480 cm²"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "गैरकानूनी रूप से हिरासत में लिए गए व्यक्ति को पेश करने के लिए अदालत द्वारा कौन सी रिट जारी की जाती है?",
+    "options": [
+      "मैंडामस",
+      "सर्टिओरारी",
+      "बंदी प्रत्यक्षीकरण",
+      "अधिकार पृच्छा"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "सत्त्रिया नृत्य शैली की उत्पत्ति हुई:",
+    "options": [
+      "ओडिशा",
+      "असम",
+      "केरल",
+      "मणिपुर"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "कोशिका में प्रोटीन संश्लेषण के लिए कौन सा अंगक मुख्य रूप से जिम्मेदार है?",
+    "options": [
+      "लाइसोसोम",
+      "राइबोसोम",
+      "गोल्गी तंत्र",
+      "रिक्तिका"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "आकाश के नीले रंग के लिए जिम्मेदार घटना है:",
+    "options": [
+      "परावर्तन",
+      "अपवर्तन",
+      "फैलाव",
+      "प्रकीर्णन"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 45,
+    "question": "भारत के किस राज्य की तटरेखा सबसे बड़ी है?",
+    "options": [
+      "महाराष्ट्र",
+      "आंध्र प्रदेश",
+      "गुजरात",
+      "तमिलनाडु"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "बंगाल में स्थायी बंदोबस्त लागू किया गया था:",
+    "options": [
+      "वॉरेन हेस्टिंग्स",
+      "लॉर्ड कॉर्नवालिस",
+      "लॉर्ड वेलेस्ले",
+      "लॉर्ड कर्जन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "निम्नलिखित में से कौन सा ऊर्जा का गैर-नवीकरणीय स्रोत है?",
+    "options": [
+      "सौर ऊर्जा",
+      "पवन ऊर्जा",
+      "भूतापीय ऊर्जा",
+      "कोयला"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 48,
+    "question": "अंतर्राष्ट्रीय नागरिक उड्डयन संगठन (ICAO) का मुख्यालय स्थित है:",
+    "options": [
+      "जिनेवा",
+      "मॉन्ट्रियल",
+      "पेरिस",
+      "वियना"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "भारतीय वायु सेना में, गरुड़ इससे संबद्ध है:",
+    "options": [
+      "विशेष बल",
+      "परिवहन स्क्वाड्रन",
+      "एयरोमेडिकल सेवाएं",
+      "वायु रक्षा कमान"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "- करेंट अफेयर्स\nभारतीय वायुसेना ने रॉयल मलेशियाई वायु सेना के साथ संयुक्त रूप से उदार शक्ति 2026 अभ्यास में भाग लिया। अभ्यास के दौरान भारतीय वायुसेना के साथ संचालन के लिए किस विमान का विशेष रूप से उल्लेख किया गया था?",
+    "options": [
+      "F-16 और मिग-29",
+      "Su-30MKM और F/A-18 हॉर्नेट",
+      "यूरोफाइटर और ग्रिपेन",
+      "राफेल और मिराज-2000"
+    ],
+    "correctAnswer": 1
+  }
+]

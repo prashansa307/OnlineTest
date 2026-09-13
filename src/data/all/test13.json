@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Neither of the boys have completed his work.",
+      "Neither of the boys has completed his work.",
+      "Neither of the boys have completed their work.",
+      "Neither boys has completed his work."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank:\nShe has been living in Jaipur _____ 2021.",
+    "options": [
+      "from",
+      "since",
+      "for",
+      "by"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct passive voice:\n“The mechanic repaired the aircraft.”",
+    "options": [
+      "The aircraft repaired by the mechanic.",
+      "The aircraft was repaired by the mechanic.",
+      "The aircraft is repaired by the mechanic.",
+      "The mechanic was repaired by the aircraft."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct indirect speech:\nHe said, “I am preparing for the examination.”",
+    "options": [
+      "He said that I was preparing for the examination.",
+      "He said that he is preparing for the examination.",
+      "He said that he was preparing for the examination.",
+      "He says that he was preparing for the examination."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Accomodation",
+      "Acommodation",
+      "Accommodation",
+      "Accommadation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "Choose the synonym of “Abundant”:",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Limited",
+      "Rare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Choose the antonym of “Hostile”:",
+    "options": [
+      "Aggressive",
+      "Violent",
+      "Friendly",
+      "Cruel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank:\nThe pilot was accustomed _____ flying at high altitude.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "by"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct one-word substitution:\nA person who can use both hands equally well",
+    "options": [
+      "Ambiguous",
+      "Ambidextrous",
+      "Ambitious",
+      "Amateur"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "The idiom “A blessing in disguise” means:",
+    "options": [
+      "Something that appears bad but proves beneficial",
+      "A religious ceremony",
+      "A hidden enemy",
+      "An unexpected punishment"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct article:\nHe is _____ honest officer.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct preposition:\nThe soldiers were divided _____ three groups.",
+    "options": [
+      "among",
+      "between",
+      "into",
+      "with"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "Identify the error:\n“The news are very encouraging.”",
+    "options": [
+      "The",
+      "news",
+      "are",
+      "encouraging"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct form:\nIf I _____ enough money, I would buy a new laptop.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Choose the word closest in meaning to “Diligent”:",
+    "options": [
+      "Lazy",
+      "Careless",
+      "Hardworking",
+      "Weak"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "passage": "Discipline is one of the most important qualities required in the armed forces. It enables personnel to follow instructions correctly, remain calm under pressure and complete their duties efficiently. Discipline does not mean merely obeying orders; it also involves responsibility, self-control and commitment to the team. A disciplined person understands that individual actions can affect the entire unit.",
+    "question": "According to the passage, discipline helps personnel to:",
+    "options": [
+      "Avoid responsibility",
+      "Remain calm under pressure",
+      "Ignore instructions",
+      "Work only individually"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Discipline is one of the most important qualities required in the armed forces. It enables personnel to follow instructions correctly, remain calm under pressure and complete their duties efficiently. Discipline does not mean merely obeying orders; it also involves responsibility, self-control and commitment to the team. A disciplined person understands that individual actions can affect the entire unit.",
+    "question": "Discipline does NOT merely mean:",
+    "options": [
+      "Following instructions",
+      "Taking responsibility",
+      "Obeying orders",
+      "Showing self-control"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "passage": "Discipline is one of the most important qualities required in the armed forces. It enables personnel to follow instructions correctly, remain calm under pressure and complete their duties efficiently. Discipline does not mean merely obeying orders; it also involves responsibility, self-control and commitment to the team. A disciplined person understands that individual actions can affect the entire unit.",
+    "question": "Which quality is mentioned along with responsibility?",
+    "options": [
+      "Wealth",
+      "Self-control",
+      "Intelligence",
+      "Physical strength"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "passage": "Discipline is one of the most important qualities required in the armed forces. It enables personnel to follow instructions correctly, remain calm under pressure and complete their duties efficiently. Discipline does not mean merely obeying orders; it also involves responsibility, self-control and commitment to the team. A disciplined person understands that individual actions can affect the entire unit.",
+    "question": "Why are individual actions important?",
+    "options": [
+      "They affect the entire unit",
+      "They increase personal salary",
+      "They reduce training",
+      "They eliminate teamwork"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "passage": "Discipline is one of the most important qualities required in the armed forces. It enables personnel to follow instructions correctly, remain calm under pressure and complete their duties efficiently. Discipline does not mean merely obeying orders; it also involves responsibility, self-control and commitment to the team. A disciplined person understands that individual actions can affect the entire unit.",
+    "question": "The central idea of the passage is:",
+    "options": [
+      "Discipline is unnecessary in difficult situations",
+      "Discipline is an essential quality involving responsibility and teamwork",
+      "Armed forces require only physical strength",
+      "Orders should never be questioned"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "लुप्त संख्या ज्ञात करें:\n5, 11, 23, 47, 95, ?",
+    "options": [
+      "181",
+      "189",
+      "191",
+      "193"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "बेजोड़ को खोजें:",
+    "options": [
+      "64",
+      "80",
+      "121",
+      "169"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "यदि MANGO को NBOHP के रूप में कोडित किया गया है, तो GRAPE को इस प्रकार कोडित किया जाएगा:",
+    "options": [
+      "HSBQF",
+      "HSBPF",
+      "HRBQF",
+      "HSBQE"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "एक आदमी पूर्व की ओर 8 किमी चलता है, फिर बायीं ओर मुड़ता है और 6 किमी चलता है। फिर वह बायीं ओर मुड़ता है और 8 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "एक आदमी की ओर इशारा करते हुए, रवि ने कहा, \"वह मेरी माँ की इकलौती बेटी का बेटा है।\"\nवह व्यक्ति रवि से किस प्रकार संबंधित है?",
+    "options": [
+      "भाई",
+      "बेटा",
+      "भतीजा",
+      "पिता"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "56 छात्रों की एक पंक्ति में, अमन बाएं से 18वें स्थान पर है। दाईं ओर से उसका स्थान क्या है?",
+    "options": [
+      "37वां",
+      "38वां",
+      "39वां",
+      "40वां"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "यदि AIRFORCE शब्द के सभी अक्षरों को वर्णानुक्रम में व्यवस्थित किया जाए, तो बाएं से तीसरा अक्षर कौन सा होगा?",
+    "options": [
+      "सी",
+      "ई",
+      "एफ",
+      "मैं"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "लुप्त पद ज्ञात कीजिए:\nएज़, बीवाई, सीएक्स, डीडब्ल्यू, ?",
+    "options": [
+      "ईवी",
+      "ईयू",
+      "एफवी",
+      "ईडब्ल्यू"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "कथन:\nकुछ एथलीट पायलट हैं।\nसभी पायलट अनुशासित हैं।\nनिष्कर्ष:\nI. कुछ एथलीट अनुशासित होते हैं।\nद्वितीय. सभी अनुशासित व्यक्ति पायलट हैं।",
+    "options": [
+      "केवल I अनुसरण करता है",
+      "केवल II अनुसरण करता है",
+      "दोनों अनुसरण करते हैं",
+      "कोई भी अनुसरण नहीं करता है"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "यदि 2 + 3 = 13, 3 + 4 = 25, और 4 + 5 = 41, तो 5 + 6 = ?",
+    "options": [
+      "55",
+      "61",
+      "71",
+      "75"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "दो संख्याओं का HCF 12 है और उनका LCM 420 है। यदि एक संख्या 60 है, तो दूसरी संख्या ज्ञात कीजिए।",
+    "options": [
+      "72",
+      "84",
+      "96",
+      "108"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "एक संख्या में 25% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। शुद्ध परिवर्तन क्या है?",
+    "options": [
+      "5% वृद्धि",
+      "5% कमी",
+      "कोई परिवर्तन नहीं",
+      "10% वृद्धि"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "एक ट्रेन 4 घंटे में 360 किमी की दूरी तय करती है। यदि इसकी गति 15 किमी/घंटा बढ़ा दी जाए, तो समान दूरी तय करने में इसे कितना समय लगेगा?",
+    "options": [
+      "3 घंटे",
+      "3 घंटे 12 मिनट",
+      "3 घंटे 20 मिनट",
+      "3 घंटे 25 मिनट"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 34,
+    "question": "यदि \\(x/3 + x/4 = 35\\), तो x है:",
+    "options": [
+      "48",
+      "60",
+      "72",
+      "84"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "एक कक्षा में लड़कों का लड़कियों से अनुपात 5:3 है। यदि 24 लड़कियाँ हैं, तो कुल कितने छात्र हैं?",
+    "options": [
+      "56",
+      "60",
+      "64",
+      "72"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "5 वर्षों में 20% साधारण ब्याज पर एक राशि ₹7,200 हो जाती है। मूलधन खोजें.",
+    "options": [
+      "₹4,800",
+      "₹5,000",
+      "₹5,200",
+      "₹3,600"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 37,
+    "question": "एक वृत्त का क्षेत्रफल 154 सेमी² है। π = 22/7 लेते हुए, इसकी त्रिज्या है:",
+    "options": [
+      "5 सेमी",
+      "6 सेमी",
+      "7 सेमी",
+      "14 सेमी"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "A किसी काम को 15 दिन में पूरा कर सकता है और B उसे 20 दिन में पूरा कर सकता है। एक साथ काम करते हुए, वे कार्य को पूरा करेंगे:",
+    "options": [
+      "7 दिन",
+      "8 दिन",
+      "8 4/7 दिन",
+      "9 दिन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "एक दुकानदार एक वस्तु पर ₹2,500 अंकित करता है और 12% की छूट देता है। विक्रम मूल्य क्या है?",
+    "options": [
+      "₹2,150",
+      "₹2,200",
+      "₹2,250",
+      "₹2,300"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "पाँच क्रमागत विषम संख्याओं का औसत 37 है। सबसे बड़ी संख्या कौन सी है?",
+    "options": [
+      "39",
+      "41",
+      "43",
+      "45"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "वायु शक्ति-2026 अभ्यास यहां आयोजित किया गया था:",
+    "options": [
+      "पोखरण फायरिंग रेंज",
+      "जैसलमेर वायु सेना स्टेशन",
+      "हिंडन एयर बेस",
+      "कलाईकुंडा वायु सेना स्टेशन"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "फरवरी 2026 में, रक्षा अधिग्रहण परिषद ने IAF की मल्टी रोल लड़ाकू विमान खरीद के लिए आवश्यकता की स्वीकृति को मंजूरी दे दी। किस विमान का विशेष रूप से उल्लेख किया गया था?",
+    "options": [
+      "एफ-35",
+      "राफेल",
+      "एफ-16",
+      "ग्रिपेन"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "स्वदेशी नेत्र AEW&C प्रणाली मुख्य रूप से निम्नलिखित को बढ़ाती है:",
+    "options": [
+      "नौसेना पानी के भीतर युद्ध",
+      "हवाई निगरानी और युद्ध प्रबंधन",
+      "टैंक युद्ध",
+      "अंतरिक्ष प्रक्षेपण क्षमता"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "रुद्रएम-II को मुख्य रूप से इस प्रकार वर्गीकृत किया गया है:",
+    "options": [
+      "सतह से सतह पर मार करने वाली मिसाइल",
+      "हवा से सतह पर मार करने वाली मिसाइल",
+      "सतह से हवा में मार करने वाली मिसाइल",
+      "एंटी टैंक मिसाइल"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "डीआरडीओ ने जनवरी 2026 में सक्रिय रूप से ठंडा किए गए स्क्रैमजेट कम्बस्टर का लंबी अवधि का जमीनी परीक्षण सफलतापूर्वक किया। यह तकनीक मुख्य रूप से इससे जुड़ी है:",
+    "options": [
+      "हाइपरसोनिक प्रोपल्शन",
+      "अंडरवाटर प्रोपल्शन",
+      "परमाणु रिएक्टर",
+      "सैटेलाइट नेविगेशन"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "भारतीय सशस्त्र बलों का सर्वोच्च कमांडर कौन है?",
+    "options": [
+      "प्रधान मंत्री",
+      "रक्षा मंत्री",
+      "भारत के राष्ट्रपति",
+      "चीफ ऑफ डिफेंस स्टाफ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 47,
+    "question": "भारतीय वायु सेना का मुख्यालय स्थित है:",
+    "options": [
+      "मुंबई",
+      "नई दिल्ली",
+      "बेंगलुरु",
+      "हैदराबाद"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "पृथ्वी के वायुमंडल में कौन सी गैस सर्वाधिक मात्रा में मौजूद है?",
+    "options": [
+      "ऑक्सीजन",
+      "कार्बन डाइऑक्साइड",
+      "नाइट्रोजन",
+      "आर्गन"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "विद्युत प्रतिरोध की SI इकाई है:",
+    "options": [
+      "वोल्ट",
+      "एम्पीयर",
+      "ओम",
+      "वाट"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "2026 के लिए, भारत सरकार ने युगल मामलों सहित कितने पद्म पुरस्कारों की घोषणा की?",
+    "options": [
+      "121",
+      "131",
+      "141",
+      "151"
+    ],
+    "correctAnswer": 1
+  }
+]

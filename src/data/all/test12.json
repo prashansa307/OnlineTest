@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Little knowledge are a dangerous thing.",
+      "A little knowledge is a dangerous thing.",
+      "The little knowledge are dangerous things.",
+      "Little of knowledge is dangerous."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "The investigating team succeeded ___ tracing the source of the information.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "with"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Identify the error:\n“Each boy and each girl have received a certificate.”",
+    "options": [
+      "Each boy",
+      "and each girl",
+      "have received",
+      "No error"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct indirect speech:\nHe said, “I cannot attend the meeting today.”",
+    "options": [
+      "He said that he cannot attend the meeting today.",
+      "He said that he could not attend the meeting that day.",
+      "He said that I could not attend the meeting that day.",
+      "He told that he cannot attend the meeting today."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Change into passive voice:\n“Open the door immediately.”",
+    "options": [
+      "Let the door be opened immediately.",
+      "Let the door opened immediately.",
+      "The door is opened immediately.",
+      "The door was opened immediately."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "By the time the rescue team arrived, the villagers ___.",
+    "options": [
+      "evacuate",
+      "have evacuated",
+      "had evacuated",
+      "will evacuate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "The manager is averse ___ taking unnecessary risks.",
+    "options": [
+      "with",
+      "to",
+      "from",
+      "against"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the synonym of “Ephemeral.”",
+    "options": [
+      "Permanent",
+      "Short-lived",
+      "Ancient",
+      "Powerful"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Choose the antonym of “Loquacious.”",
+    "options": [
+      "Talkative",
+      "Fluent",
+      "Reticent",
+      "Expressive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Questionnaire",
+      "Questionaire",
+      "Questionnair",
+      "Questionnare"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "She gave me ___ useful piece of advice.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "“To cut no ice” means:",
+    "options": [
+      "To have no influence or effect",
+      "To work very hard",
+      "To create confusion",
+      "To make a quick decision"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He prevented me to enter the room.",
+      "He prevented me from entering the room.",
+      "He prevented me entering into the room.",
+      "He prevented that I entered the room."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "The captain, along with his teammates, ___ expected to arrive shortly.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "A person who deliberately pretends to be someone else is called a:",
+    "options": [
+      "Impostor",
+      "Optimist",
+      "Ascetic",
+      "Stoic"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "passage": "Efficiency does not simply mean completing a task quickly. A truly efficient system achieves its objective while making the best possible use of available resources. In aviation, for example, saving time is important, but safety, fuel consumption, maintenance requirements and operational reliability must also be considered. Thus, efficiency involves balancing several competing requirements rather than maximising a single factor.",
+    "question": "According to the passage, efficiency is not merely about:",
+    "options": [
+      "saving resources",
+      "completing a task quickly",
+      "maintaining reliability",
+      "achieving objectives"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "passage": "Efficiency does not simply mean completing a task quickly. A truly efficient system achieves its objective while making the best possible use of available resources. In aviation, for example, saving time is important, but safety, fuel consumption, maintenance requirements and operational reliability must also be considered. Thus, efficiency involves balancing several competing requirements rather than maximising a single factor.",
+    "question": "In aviation, which factor is mentioned along with safety?",
+    "options": [
+      "Fuel consumption",
+      "Passenger comfort only",
+      "Ticket pricing",
+      "Advertising"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "passage": "Efficiency does not simply mean completing a task quickly. A truly efficient system achieves its objective while making the best possible use of available resources. In aviation, for example, saving time is important, but safety, fuel consumption, maintenance requirements and operational reliability must also be considered. Thus, efficiency involves balancing several competing requirements rather than maximising a single factor.",
+    "question": "An efficient system should:",
+    "options": [
+      "maximise only speed",
+      "ignore maintenance",
+      "balance competing requirements",
+      "eliminate all resources"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "passage": "Efficiency does not simply mean completing a task quickly. A truly efficient system achieves its objective while making the best possible use of available resources. In aviation, for example, saving time is important, but safety, fuel consumption, maintenance requirements and operational reliability must also be considered. Thus, efficiency involves balancing several competing requirements rather than maximising a single factor.",
+    "question": "The central idea is that efficiency requires:",
+    "options": [
+      "speed at any cost",
+      "balancing multiple factors",
+      "reducing safety standards",
+      "increasing expenditure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "passage": "Efficiency does not simply mean completing a task quickly. A truly efficient system achieves its objective while making the best possible use of available resources. In aviation, for example, saving time is important, but safety, fuel consumption, maintenance requirements and operational reliability must also be considered. Thus, efficiency involves balancing several competing requirements rather than maximising a single factor.",
+    "question": "The best title is:",
+    "options": [
+      "Aviation Safety Rules",
+      "Meaning of True Efficiency",
+      "Fuel Management",
+      "Modern Aircraft"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "लुप्त संख्या ज्ञात करें:\n9, 20, 43, 90, 185, ?",
+    "options": [
+      "368",
+      "372",
+      "376",
+      "380"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "अगला पद खोजें:\nडी, आई, ओ, वी, ?",
+    "options": [
+      "बी",
+      "सी",
+      "डी",
+      "ई"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "एक निश्चित कोड में, BRAVE को CSBWF लिखा जाता है। CLOUD कैसे लिखा जाएगा?",
+    "options": [
+      "डीएमपीवीई",
+      "डीएनपीवीई",
+      "डीएमक्यूवीएफ",
+      "ईएलपीडब्ल्यूडी"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "सरल कीजिए: A man faces north. He turns 225° clockwise and then 90° anticlockwise. Which direction is he facing?",
+    "options": [
+      "East",
+      "South-East",
+      "South-West",
+      "North-West"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "A, B की माँ है। C, A का पति है। D, C का भाई है। E, D की बेटी है। E, B से किस प्रकार संबंधित है?",
+    "options": [
+      "बहन",
+      "चचेरी बहन",
+      "चाची",
+      "भतीजी"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "48 लोगों की एक पंक्ति में, P बाएं से 17वें स्थान पर है। Q, P के दायीं ओर 12 स्थान पर है। दायें से Q का स्थान क्या है?",
+    "options": [
+      "18वीं",
+      "19वीं",
+      "20वीं",
+      "21वीं"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "विषम संख्या ज्ञात कीजिये.",
+    "options": [
+      "121",
+      "160",
+      "289",
+      "361"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "निम्नलिखित शब्दों को शब्दकोश क्रम में व्यवस्थित करें:\nपूर्ववर्ती\nएहतियात\nअनमोल\nभविष्यवाणी करें\nवरीयता",
+    "options": [
+      "2, 1, 3, 5, 4",
+      "1, 2, 3, 4, 5",
+      "2, 3, 1, 5, 4",
+      "1, 3, 2, 5, 4"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "कथन:\nकुछ किताबें उपन्यास हैं.\nसभी उपन्यास रोचक हैं.\nनिष्कर्ष:\nI. कुछ किताबें दिलचस्प हैं.\nद्वितीय. सभी दिलचस्प चीजें उपन्यास हैं।",
+    "options": [
+      "केवल I अनुसरण करता है",
+      "केवल II अनुसरण करता है",
+      "दोनों अनुसरण करते हैं",
+      "कोई भी अनुसरण नहीं करता है"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "लुप्त संख्या ज्ञात करें:\n5 3 34\n6 4 52\n7 5 ?",
+    "options": [
+      "68",
+      "72",
+      "74",
+      "76"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "दो संख्याओं का HCF 18 है और उनका LCM 540 है। यदि एक संख्या 90 है, तो दूसरी संख्या है:",
+    "options": [
+      "96",
+      "108",
+      "120",
+      "126"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "दो अंकों की एक संख्या के अंकों का अनुपात 2:3 है। यदि अंकों को उलट दिया जाए, तो परिणामी संख्या मूल संख्या से 18 अधिक हो जाती है। मूल संख्या ज्ञात कीजिए।",
+    "options": [
+      "36",
+      "42",
+      "46",
+      "69"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "₹6,400 की एक राशि 7.5% वार्षिक साधारण ब्याज पर निवेश की जाती है। कितने वर्षों में ब्याज ₹2,400 हो जाएगा?",
+    "options": [
+      "4 वर्ष",
+      "5 वर्ष",
+      "6 वर्ष",
+      "7 वर्ष"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "यदि\n$$ 2x-3y=7 $$\nऔर\n$$ 3x+2y=4, $$\nतो \\(x+y\\) है:",
+    "options": [
+      "1",
+      "11/13",
+      "13/11",
+      "2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "एक वस्तु की कीमत 30% बढ़ जाती है। मूल कीमत बहाल करने के लिए बढ़ी हुई कीमत को कितने प्रतिशत कम किया जाना चाहिए?",
+    "options": [
+      "20%",
+      "23\\(\\frac{1}{13}\\)%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "A एक काम को 24 दिनों में और B 32 दिनों में कर सकता है। वे 6 दिनों तक एक साथ काम करते हैं। कार्य का कितना भाग शेष है?",
+    "options": [
+      "1/2",
+      "9/16",
+      "5/8",
+      "7/16"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "एक ट्रेन एक निश्चित गति से 360 किमी की यात्रा करती है। यदि इसकी गति 15 किमी/घंटा बढ़ा दी जाए, तो 1 घंटा कम लगता है। मूल गति है:",
+    "options": [
+      "60 किमी/घंटा",
+      "75 किमी/घंटा",
+      "90 किमी/घंटा",
+      "66.86 किमी/घंटा"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 38,
+    "question": "एक वर्ग की परिधि 14 सेमी त्रिज्या वाले एक वृत्त की परिधि के बराबर है। वर्ग की भुजा क्या है?",
+    "options": [
+      "22 सेमी",
+      "44 सेमी",
+      "11 सेमी",
+      "14 सेमी"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "एक आयताकार मैदान का क्षेत्रफल 1,200 वर्ग मीटर है। यदि इसकी लंबाई इसकी चौड़ाई से 10 मीटर अधिक है, तो इसकी परिधि है:",
+    "options": [
+      "140 मीटर",
+      "150 मीटर",
+      "160 मीटर",
+      "180 मीटर"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "एक मिश्रण में दूध और पानी का अनुपात 7:3 है। यदि 20 लीटर पानी मिलाया जाए तो अनुपात 7:5 हो जाता है। दूध की मूल मात्रा क्या थी?",
+    "options": [
+      "60 एल",
+      "70 एल",
+      "80 एल",
+      "90 एल"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "भारतीय संविधान की कौन सी अनुसूची राज्य सभा में सीटों के आवंटन से संबंधित है?",
+    "options": [
+      "तीसरी अनुसूची",
+      "चौथी अनुसूची",
+      "पांचवीं अनुसूची",
+      "छठी अनुसूची"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "धोलावीरा पुरातात्विक स्थल स्थित है:",
+    "options": [
+      "राजस्थान",
+      "गुजरात",
+      "हरियाणा",
+      "पंजाब"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "लार में कौन सा एंजाइम स्टार्च का पाचन शुरू करता है?",
+    "options": [
+      "पेप्सिन",
+      "ट्रिप्सिन",
+      "एमाइलेज",
+      "लाइपेज"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 44,
+    "question": "पृथ्वी की सतह से पलायन वेग लगभग है:",
+    "options": [
+      "5.6 किमी/सेकंड",
+      "8.4 किमी/सेकंड",
+      "11.2 किमी/सेकंड",
+      "15.6 किमी/सेकेंड"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "question": "कौन सा भारतीय राज्य चाय का सबसे बड़ा उत्पादक है?",
+    "options": [
+      "पश्चिम बंगाल",
+      "असम",
+      "केरल",
+      "तमिलनाडु"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "गदर आंदोलन की स्थापना मुख्य रूप से यहां रहने वाले भारतीयों द्वारा की गई थी:",
+    "options": [
+      "यूरोप",
+      "उत्तरी अमेरिका",
+      "दक्षिण अफ्रीका",
+      "दक्षिण पूर्व एशिया"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "वायुमंडलीय आर्द्रता मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "options": [
+      "हाइग्रोमीटर",
+      "एनीमोमीटर",
+      "सिस्मोग्राफ",
+      "अल्टीमीटर"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "भारतीय मानक मेरिडियन है:",
+    "options": [
+      "75°30′ E",
+      "82°30′ E",
+      "90°30′ E",
+      "68°30′ E"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "कौन सी मिसाइल प्रणाली विशेष रूप से भारत और इज़राइल द्वारा संयुक्त रूप से विकसित लंबी दूरी की सतह से हवा में मार करने वाली मिसाइल प्रणाली के रूप में डिज़ाइन की गई है?",
+    "options": [
+      "एस्ट्रा",
+      "बराक-8",
+      "नाग",
+      "पृथ्वी"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "- करेंट अफेयर्स\nजून 2026 में, किस स्वदेशी भारतीय हवाई प्रणाली को भारतीय वायु सेना/DRDO से अंतिम परिचालन मंजूरी (FOC) प्राप्त हुई?",
+    "options": [
+      "नेत्रा AEW&C",
+      "आकाश प्राइम",
+      "एस्ट्रा एमके-II",
+      "रुद्र हेलीकॉप्टर"
+    ],
+    "correctAnswer": 0
+  }
+]
