@@ -20,6 +20,7 @@ import allTest11Questions from '../data/all/test11.json';
 import allTest12Questions from '../data/all/test12.json';
 import allTest13Questions from '../data/all/test13.json';
 import allTest14Questions from '../data/all/test14.json';
+import allTest15Questions from '../data/all/test15.json';
 import reasoningTest1Questions from '../data/reasoning/test1.json';
 import reasoningTest2Questions from '../data/reasoning/test2.json';
 import reasoningTest3Questions from '../data/reasoning/test3.json';
@@ -565,6 +566,7 @@ function migrateAdditionalAllTests(db) {
     ['test12', allTest12Questions],
     ['test13', allTest13Questions],
     ['test14', allTest14Questions],
+    ['test15', allTest15Questions],
   ].reduce((nextDb, [testId, questions]) => ensureSeedTest(nextDb, 'all', testId, questions), db);
 }
 

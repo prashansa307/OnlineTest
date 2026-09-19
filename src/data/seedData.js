@@ -26,6 +26,7 @@ import allTest11 from './all/test11.json';
 import allTest12 from './all/test12.json';
 import allTest13 from './all/test13.json';
 import allTest14 from './all/test14.json';
+import allTest15 from './all/test15.json';
 
 function createTest(categoryId, id, title, description, durationMinutes, questions) {
   return {
@@ -129,6 +130,7 @@ export const seedDb = {
     createTest('all', 'test12', 'Test 12', 'All-in-one practice set 12', 50, allTest12),
     createTest('all', 'test13', 'Test 13', 'All-in-one practice set 13', 50, allTest13),
     createTest('all', 'test14', 'Test 14', 'All-in-one practice set 14', 50, allTest14),
+    createTest('all', 'test15', 'Test 15', 'All-in-one practice set 15', 50, allTest15),
   ],
   questions: [
     ...normalizeQuestions('english', 'test1', englishTest1),
@@ -159,6 +161,7 @@ export const seedDb = {
     ...normalizeQuestions('all', 'test12', allTest12),
     ...normalizeQuestions('all', 'test13', allTest13),
     ...normalizeQuestions('all', 'test14', allTest14),
+    ...normalizeQuestions('all', 'test15', allTest15),
   ],
   attempts: [],
   settings: {
